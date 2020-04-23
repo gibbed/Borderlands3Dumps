@@ -1289,7 +1289,50 @@
       "/Geranium/Missions/Plot/Facility/EchoLog_OvercomeHQBlockade_TechnicalEchoLog.EchoLog_OvercomeHQBlockade_TechnicalEchoLog",
       "/Geranium/NonPlayerCharacters/Rose/_TheBoss/Weapon/InvData_RoseBoss_Sword.InvData_RoseBoss_Sword",
       "/Game/PatchDLC/Geranium/Customizations/RoomDeco/RoomDecoration_KeyToCity.InvData_RoomDecoration_KeyToCity",
-      "/Geranium/Missions/Side/Frontier/MoneyBackGuarantee/EchoLog_MoneyBackEchoLog.EchoLog_MoneyBackEchoLog"
+      "/Geranium/Missions/Side/Frontier/MoneyBackGuarantee/EchoLog_MoneyBackEchoLog.EchoLog_MoneyBackEchoLog",
+      "/Geranium/InteractiveObjects/EchoLog_NonMission/Data/EchoLogData/EchoLogData_NonMission_Geranium_Front1.EchoLogData_NonMission_Geranium_Front1",
+      "/Geranium/InteractiveObjects/EchoLog_NonMission/Data/EchoLogData/EchoLogData_NonMission_Geranium_Frontier01.EchoLogData_NonMission_Geranium_Frontier01",
+      "/Geranium/InteractiveObjects/EchoLog_NonMission/Data/EchoLogData/EchoLogData_NonMission_Geranium_Frontier02.EchoLogData_NonMission_Geranium_Frontier02",
+      "/Geranium/InteractiveObjects/EchoLog_NonMission/Data/EchoLogData/EchoLogData_NonMission_Geranium_Frontier03.EchoLogData_NonMission_Geranium_Frontier03",
+      "/Geranium/InteractiveObjects/EchoLog_NonMission/Data/EchoLogData/EchoLogData_NonMission_Geranium_Frontier04.EchoLogData_NonMission_Geranium_Frontier04",
+      "/Geranium/InteractiveObjects/EchoLog_NonMission/Data/EchoLogData/EchoLogData_NonMission_Geranium_Frontier1.EchoLogData_NonMission_Geranium_Frontier1",
+      "/Geranium/InteractiveObjects/EchoLog_NonMission/Data/EchoLogData/EchoLogData_NonMission_Geranium_Map01.EchoLogData_NonMission_Geranium_Map01",
+      "/Geranium/Missions/Side/Facility/GhostStories/EchoLogData/EchoLogData_NonMission_Example.EchoLogData_NonMission_Example",
+      "/Geranium/Missions/Side/Facility/GhostStories/EchoLogData/EchoLog_GhostStoriesLog1.EchoLog_GhostStoriesLog1",
+      "/Geranium/Missions/Side/Facility/GhostStories/EchoLogData/EchoLog_GhostStoriesLog1_2.EchoLog_GhostStoriesLog1_2",
+      "/Geranium/Missions/Side/Facility/GhostStories/EchoLogData/EchoLog_GhostStoriesLog2.EchoLog_GhostStoriesLog2",
+      "/Geranium/Missions/Side/Facility/GhostStories/EchoLogData/EchoLog_GhostStoriesLog2_2.EchoLog_GhostStoriesLog2_2",
+      "/Geranium/Missions/Side/Facility/GhostStories/EchoLogData/EchoLog_GhostStoriesLog3.EchoLog_GhostStoriesLog3",
+      "/Geranium/Missions/Side/Facility/GhostStories/EchoLogData/EchoLog_GhostStoriesLog3_2.EchoLog_GhostStoriesLog3_2",
+      "/Geranium/Missions/Side/Facility/GhostStories/EchoLogData/EchoLog_GhostStoriesLog4.EchoLog_GhostStoriesLog4",
+      "/Geranium/Missions/Side/Facility/GhostStories/EchoLogData/EchoLog_GhostStoriesLog4_2.EchoLog_GhostStoriesLog4_2",
+      "/Geranium/Missions/Side/Facility/GhostStories/EchoLogData/EchoLog_GhostStoriesLog5.EchoLog_GhostStoriesLog5",
+      "/Geranium/Missions/Side/Facility/GhostStories/EchoLogData/EchoLog_GhostStoriesLog5_2.EchoLog_GhostStoriesLog5_2",
+      "/Geranium/Missions/Side/Facility/GhostStories/EchoLogData/EchoLog_GhostStoriesLog6.EchoLog_GhostStoriesLog6",
+      "/Game/PatchDLC/Event2/PlayerCharacters/_Customizations/Beastmaster/Heads/CustomHead_Beastmaster_34.InvData_CustomHead_Beastmaster_34",
+      "/Game/PatchDLC/Event2/PlayerCharacters/_Customizations/Beastmaster/Skins/CustomSkin_Beastmaster_47.InvData_CustomSkin_Beastmaster_47",
+      "/Game/PatchDLC/Event2/PlayerCharacters/_Customizations/Gunner/Heads/CustomHead_Gunner_34.InvData_CustomHead_Gunner_34",
+      "/Game/PatchDLC/Event2/PlayerCharacters/_Customizations/Gunner/Skins/CustomSkin_Gunner_47.InvData_CustomSkin_Gunner_47",
+      "/Game/PatchDLC/Event2/PlayerCharacters/_Customizations/Operative/Heads/CustomHead_Operative_34.InvData_CustomHead_Operative_34",
+      "/Game/PatchDLC/Event2/PlayerCharacters/_Customizations/Operative/Skins/CustomSkin_Operative_47.InvData_CustomSkin_Operative_47",
+      "/Game/PatchDLC/Event2/PlayerCharacters/_Customizations/SirenBrawler/Heads/CustomHead_Siren_34.InvData_CustomHead_Siren_34",
+      "/Game/PatchDLC/Event2/PlayerCharacters/_Customizations/SirenBrawler/Skins/CustomSkin_Siren_47.InvData_CustomSkin_Siren_47",
+      "/Game/PatchDLC/Geranium/Customizations/RoomDeco/RoomDecoration_Geranium_IO_1.InvData_RoomDecoration_Geranium_IO_1",
+      "/Game/PatchDLC/Geranium/Customizations/RoomDeco/RoomDecoration_Geranium_IO_2.InvData_RoomDecoration_Geranium_IO_2",
+      "/Game/PatchDLC/Geranium/Customizations/RoomDeco/RoomDecoration_Geranium_IO_3.InvData_RoomDecoration_Geranium_IO_3",
+      "/Game/PatchDLC/Takedown2/PlayerCharacters/_Customizations/EchoDevice/EchoTheme_Takedown2.InvData_EchoTheme_Takedown2",
+      "/Game/PatchDLC/Mayhem2/Abilities/_Shared/Boosters/Shield/InvData_ShieldBoosterMayhem.InvData_ShieldBoosterMayhem",
+      "/Game/PatchDLC/Geranium/Customizations/RoomDeco/RoomDecoration_Geranium_2.InvData_RoomDecoration_Geranium_2",
+      "/Game/PatchDLC/Geranium/Customizations/RoomDeco/RoomDecoration_Geranium_3.InvData_RoomDecoration_Geranium_3",
+      "/Game/PatchDLC/Geranium/Customizations/RoomDeco/RoomDecoration_Geranium_4.InvData_RoomDecoration_Geranium_4",
+      "/Game/PatchDLC/Geranium/Customizations/RoomDeco/RoomDecoration_Geranium_5.InvData_RoomDecoration_Geranium_5",
+      "/Game/PatchDLC/Geranium/Customizations/RoomDeco/RoomDecoration_Geranium_6.InvData_RoomDecoration_Geranium_6",
+      "/Game/PatchDLC/Geranium/Customizations/RoomDeco/RoomDecoration_Geranium_7.InvData_RoomDecoration_Geranium_7",
+      "/Game/PatchDLC/Geranium/Customizations/PlayerHead/CustomHead_Beastmaster_38.InvData_CustomHead_Beastmaster_38",
+      "/Game/PatchDLC/Geranium/Customizations/PlayerHead/CustomHead_Gunner_38.InvData_CustomHead_Gunner_38",
+      "/Game/PatchDLC/Geranium/Customizations/PlayerHead/CustomHead_Operative_38.InvData_CustomHead_Operative_38",
+      "/Game/PatchDLC/Geranium/Customizations/PlayerHead/CustomHead_Siren_38.InvData_CustomHead_Siren_38",
+      "/Game/PatchDLC/Takedown2/InteractiveObjects/PlayerQuarters/RoomDeco_Takedown2.InvData_RoomDeco_Takedown2"
     ]
   },
   "InventoryBalanceData": {
@@ -3465,7 +3508,78 @@
       "/Game/PatchDLC/Geranium/Gear/Weapon/_Unique/CoolBeans/Balance/Balance_AR_JAK_CoolBeans.Balance_AR_JAK_CoolBeans",
       "/Game/PatchDLC/Geranium/Gear/Weapon/_Unique/Dakota/Balance/Balance_SG_JAK_Dakota.Balance_SG_JAK_Dakota",
       "/Game/PatchDLC/Geranium/Gear/Weapon/_Unique/ImaginaryNumber/Balance/Balance_MAL_SR_ImaginaryNumber.Balance_MAL_SR_ImaginaryNumber",
-      "/Game/PatchDLC/Geranium/Gear/Weapon/_Unique/Rose/Balance/Balance_PS_JAK_Rose.Balance_PS_JAK_Rose"
+      "/Game/PatchDLC/Geranium/Gear/Weapon/_Unique/Rose/Balance/Balance_PS_JAK_Rose.Balance_PS_JAK_Rose",
+      "/Game/PatchDLC/Geranium/Gear/Grenade/CoreBurst/Balance/InvBalD_GM_CoreBurst.InvBalD_GM_CoreBurst",
+      "/Game/PatchDLC/Geranium/Gear/Weapon/_Unique/BubbleBlaster/Balance/Balance_PS_MAL_BubbleBlaster.Balance_PS_MAL_BubbleBlaster",
+      "/Game/PatchDLC/Geranium/Gear/Weapon/_Unique/Lasocannon/Balance/Balance_PS_VLA_Lasocannon.Balance_PS_VLA_Lasocannon",
+      "/Geranium/InteractiveObjects/EchoLog_NonMission/Data/EchoLogData/EchoLogData_NonMission_Geranium_Front1.InvBal_EchoLogData_NonMission_Geranium_Front1",
+      "/Geranium/InteractiveObjects/EchoLog_NonMission/Data/EchoLogData/EchoLogData_NonMission_Geranium_Frontier01.InvBal_EchoLogData_NonMission_Geranium_Frontier01",
+      "/Geranium/InteractiveObjects/EchoLog_NonMission/Data/EchoLogData/EchoLogData_NonMission_Geranium_Frontier02.InvBal_EchoLogData_NonMission_Geranium_Frontier02",
+      "/Geranium/InteractiveObjects/EchoLog_NonMission/Data/EchoLogData/EchoLogData_NonMission_Geranium_Frontier03.InvBal_EchoLogData_NonMission_Geranium_Frontier03",
+      "/Geranium/InteractiveObjects/EchoLog_NonMission/Data/EchoLogData/EchoLogData_NonMission_Geranium_Frontier04.InvBal_EchoLogData_NonMission_Geranium_Frontier04",
+      "/Geranium/InteractiveObjects/EchoLog_NonMission/Data/EchoLogData/EchoLogData_NonMission_Geranium_Frontier1.InvBal_EchoLogData_NonMission_Geranium_Frontier1",
+      "/Geranium/InteractiveObjects/EchoLog_NonMission/Data/EchoLogData/EchoLogData_NonMission_Geranium_Map01.InvBal_EchoLogData_NonMission_Geranium_Map01",
+      "/Game/PatchDLC/Geranium/Gear/Weapon/_Unique/Miscreant/Balance/Balance_PS_VLA_Miscreant.Balance_PS_VLA_Miscreant",
+      "/Game/PatchDLC/Geranium/Gear/Weapon/_Unique/SpeakEasy/Balance/Balance_SG_JAK_SpeakEasy.Balance_SG_JAK_SpeakEasy",
+      "/Geranium/Missions/Side/Facility/GhostStories/EchoLogData/EchoLogData_NonMission_Example.InvBal_EchoLogData_NonMission_Example",
+      "/Geranium/Missions/Side/Facility/GhostStories/EchoLogData/EchoLog_GhostStoriesLog1.InvBal_EchoLog_GhostStoriesLog1",
+      "/Geranium/Missions/Side/Facility/GhostStories/EchoLogData/EchoLog_GhostStoriesLog1_2.InvBal_EchoLog_GhostStoriesLog1_2",
+      "/Geranium/Missions/Side/Facility/GhostStories/EchoLogData/EchoLog_GhostStoriesLog2.InvBal_EchoLog_GhostStoriesLog2",
+      "/Geranium/Missions/Side/Facility/GhostStories/EchoLogData/EchoLog_GhostStoriesLog2_2.InvBal_EchoLog_GhostStoriesLog2_2",
+      "/Geranium/Missions/Side/Facility/GhostStories/EchoLogData/EchoLog_GhostStoriesLog3.InvBal_EchoLog_GhostStoriesLog3",
+      "/Geranium/Missions/Side/Facility/GhostStories/EchoLogData/EchoLog_GhostStoriesLog3_2.InvBal_EchoLog_GhostStoriesLog3_2",
+      "/Geranium/Missions/Side/Facility/GhostStories/EchoLogData/EchoLog_GhostStoriesLog4.InvBal_EchoLog_GhostStoriesLog4",
+      "/Geranium/Missions/Side/Facility/GhostStories/EchoLogData/EchoLog_GhostStoriesLog4_2.InvBal_EchoLog_GhostStoriesLog4_2",
+      "/Geranium/Missions/Side/Facility/GhostStories/EchoLogData/EchoLog_GhostStoriesLog5.InvBal_EchoLog_GhostStoriesLog5",
+      "/Geranium/Missions/Side/Facility/GhostStories/EchoLogData/EchoLog_GhostStoriesLog5_2.InvBal_EchoLog_GhostStoriesLog5_2",
+      "/Geranium/Missions/Side/Facility/GhostStories/EchoLogData/EchoLog_GhostStoriesLog6.InvBal_EchoLog_GhostStoriesLog6",
+      "/Game/PatchDLC/Geranium/Gear/Weapon/_Unique/Gargoyle/Balance/Balance_PS_COV_Gargoyle.Balance_PS_COV_Gargoyle",
+      "/Game/PatchDLC/Geranium/Gear/Weapon/_Unique/Shoveler/Balance/Balance_SG_Torgue_Shoveler.Balance_SG_Torgue_Shoveler",
+      "/Game/PatchDLC/Event2/PlayerCharacters/_Customizations/Beastmaster/Heads/CustomHead_Beastmaster_34.InvBal_CustomHead_Beastmaster_34",
+      "/Game/PatchDLC/Event2/PlayerCharacters/_Customizations/Beastmaster/Skins/CustomSkin_Beastmaster_47.InvBal_CustomSkin_Beastmaster_47",
+      "/Game/PatchDLC/Event2/PlayerCharacters/_Customizations/Gunner/Heads/CustomHead_Gunner_34.InvBal_CustomHead_Gunner_34",
+      "/Game/PatchDLC/Event2/PlayerCharacters/_Customizations/Gunner/Skins/CustomSkin_Gunner_47.InvBal_CustomSkin_Gunner_47",
+      "/Game/PatchDLC/Event2/PlayerCharacters/_Customizations/Operative/Heads/CustomHead_Operative_34.InvBal_CustomHead_Operative_34",
+      "/Game/PatchDLC/Event2/PlayerCharacters/_Customizations/Operative/Skins/CustomSkin_Operative_47.InvBal_CustomSkin_Operative_47",
+      "/Game/PatchDLC/Event2/PlayerCharacters/_Customizations/SirenBrawler/Heads/CustomHead_Siren_34.InvBal_CustomHead_Siren_34",
+      "/Game/PatchDLC/Event2/PlayerCharacters/_Customizations/SirenBrawler/Skins/CustomSkin_Siren_47.InvBal_CustomSkin_Siren_47",
+      "/Game/PatchDLC/Geranium/Customizations/RoomDeco/RoomDecoration_Geranium_IO_1.InvBal_RoomDecoration_Geranium_IO_1",
+      "/Game/PatchDLC/Geranium/Customizations/RoomDeco/RoomDecoration_Geranium_IO_2.InvBal_RoomDecoration_Geranium_IO_2",
+      "/Game/PatchDLC/Geranium/Customizations/RoomDeco/RoomDecoration_Geranium_IO_3.InvBal_RoomDecoration_Geranium_IO_3",
+      "/Game/PatchDLC/Geranium/Gear/Weapon/_Unique/Brightside/Balance/Balance_SG_TED_Brightside.Balance_SG_TED_Brightside",
+      "/Game/PatchDLC/Geranium/Gear/Weapon/_Unique/Earthbound/Balance/Balance_SM_TED_Earthbound.Balance_SM_TED_Earthbound",
+      "/Game/PatchDLC/Geranium/Gear/Weapon/_Unique/Fakobs/Balance/Balance_SG_JAK_Fakobs.Balance_SG_JAK_Fakobs",
+      "/Game/PatchDLC/Event2/Gear/Weapon/_Unique/IceBurger/Balance/Balance_SG_HYP_IceBurger.Balance_SG_HYP_IceBurger",
+      "/Game/PatchDLC/Takedown2/PlayerCharacters/_Customizations/EchoDevice/EchoTheme_Takedown2.InvBal_EchoTheme_Takedown2",
+      "/Game/PatchDLC/Geranium/Gear/Weapon/_Unique/McSmugger/Balance/Balance_SG_JAK_McSmugger.Balance_SG_JAK_McSmugger",
+      "/Game/PatchDLC/Geranium/Customizations/RoomDeco/RoomDecoration_Geranium_2.InvBal_RoomDecoration_Geranium_2",
+      "/Game/PatchDLC/Geranium/Customizations/RoomDeco/RoomDecoration_Geranium_3.InvBal_RoomDecoration_Geranium_3",
+      "/Game/PatchDLC/Geranium/Customizations/RoomDeco/RoomDecoration_Geranium_4.InvBal_RoomDecoration_Geranium_4",
+      "/Game/PatchDLC/Geranium/Customizations/RoomDeco/RoomDecoration_Geranium_5.InvBal_RoomDecoration_Geranium_5",
+      "/Game/PatchDLC/Geranium/Customizations/RoomDeco/RoomDecoration_Geranium_6.InvBal_RoomDecoration_Geranium_6",
+      "/Game/PatchDLC/Geranium/Customizations/RoomDeco/RoomDecoration_Geranium_7.InvBal_RoomDecoration_Geranium_7",
+      "/Game/PatchDLC/Mayhem2/Abilities/_Shared/Boosters/Shield/InvBal_ShieldBoosterMayhem.InvBal_ShieldBoosterMayhem",
+      "/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Unique/Backburner/Balance/Balance_HW_VLA_ETech_BackBurner.Balance_HW_VLA_ETech_BackBurner",
+      "/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Unique/DNA/Balance/Balance_SM_MAL_DNA.Balance_SM_MAL_DNA",
+      "/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Unique/DoubleTap/Balance/Balance_PS_ATL_DoubleTap.Balance_PS_ATL_DoubleTap",
+      "/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Unique/Kaoson/Balance/Balance_SM_DAHL_Kaoson.Balance_SM_DAHL_Kaoson",
+      "/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Unique/Monarch/Balance/Balance_AR_VLA_Monarch.Balance_AR_VLA_Monarch",
+      "/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Unique/Plague/Balance/Balance_HW_TOR_Plague.Balance_HW_TOR_Plague",
+      "/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Unique/Reflux/Balance/Balance_SG_HYP_Reflux.Balance_SG_HYP_Reflux",
+      "/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Unique/SandHawk/Balance/Balance_SR_DAL_SandHawk.Balance_SR_DAL_SandHawk",
+      "/Game/PatchDLC/Takedown2/Gear/GrenadeMods/Lightspeed/Balance/InvBalD_GM_HYP_Lightspeed.InvBalD_GM_HYP_Lightspeed",
+      "/Game/PatchDLC/Takedown2/Gear/Weapons/Smog/Balance/Balance_SM_HYP_Smog.Balance_SM_HYP_Smog",
+      "/Game/PatchDLC/Takedown2/Gear/Weapons/WebSlinger/Balance/Balance_SR_VLA_WebSlinger.Balance_SR_VLA_WebSlinger",
+      "/Game/PatchDLC/Takedown2/Gear/Weapons/Globetrotter/Balance/Balance_HW_COV_Globetrotter.Balance_HW_COV_Globetrotter",
+      "/Game/PatchDLC/Geranium/Customizations/PlayerHead/CustomHead_Beastmaster_38.InvBal_CustomHead_Beastmaster_38",
+      "/Game/PatchDLC/Geranium/Customizations/PlayerHead/CustomHead_Gunner_38.InvBal_CustomHead_Gunner_38",
+      "/Game/PatchDLC/Geranium/Customizations/PlayerHead/CustomHead_Operative_38.InvBal_CustomHead_Operative_38",
+      "/Game/PatchDLC/Geranium/Customizations/PlayerHead/CustomHead_Siren_38.InvBal_CustomHead_Siren_38",
+      "/Game/PatchDLC/Takedown2/Gear/Shields/Stinger/Balance/InvBalD_Shield_LGD_Stinger.InvBalD_Shield_LGD_Stinger",
+      "/Game/PatchDLC/Takedown2/InteractiveObjects/PlayerQuarters/RoomDeco_Takedown2.InvBal_RoomDeco_Takedown2",
+      "/Game/PatchDLC/Takedown2/Gear/Shields/Aesclepius/Balance/InvBalD_Shield_LGD_Aesclepius.InvBalD_Shield_LGD_Aesclepius",
+      "/Game/PatchDLC/Geranium/Gear/Weapon/_Unique/Sheriff/Balance/Balance_PS_JAK_Sheriff.Balance_PS_JAK_Sheriff",
+      "/Game/PatchDLC/Takedown2/Gear/Weapons/WebSlinger/Balance/Balance_AR_VLA_WebSlinger.Balance_AR_VLA_WebSlinger"
     ]
   },
   "BPVehiclePart_C": {
@@ -3831,7 +3945,9 @@
       "/Game/PatchDLC/Dandelion/Gear/Weapon/_Unique/Boomer/Parts/Part_SM_DAL_Material_Boomer.Part_SM_DAL_Material_Boomer",
       "/Game/PatchDLC/Raid1/Re-Engagement/Weapons/CraderMP5/Parts/Part_SM_DAL_Barrel_CraderMP5.Part_SM_DAL_Barrel_CraderMP5",
       "/Game/PatchDLC/Raid1/Re-Engagement/Weapons/CraderMP5/Parts/Part_SM_DAL_Material_CraderMP5.Part_SM_DAL_Material_CraderMP5",
-      "/Hibiscus/Enemies/Zealot/Ghost/_Design/Inventory/Part_Hib_SM_DAL_Barrel_ETech_InvisibleZealots.Part_Hib_SM_DAL_Barrel_ETech_InvisibleZealots"
+      "/Hibiscus/Enemies/Zealot/Ghost/_Design/Inventory/Part_Hib_SM_DAL_Barrel_ETech_InvisibleZealots.Part_Hib_SM_DAL_Barrel_ETech_InvisibleZealots",
+      "/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Unique/Kaoson/Parts/Part_SM_DAL_Barrel_Kaoson.Part_SM_DAL_Barrel_Kaoson",
+      "/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Unique/Kaoson/Parts/Part_SM_DAL_Material_Kaoson.Part_SM_DAL_Material_Kaoson"
     ]
   },
   "BPInvPart_VLA_AR_C": {
@@ -3928,7 +4044,12 @@
       "/Game/Gear/Weapons/AssaultRifles/Vladof/_Shared/_Design/_Unique/Damn/Parts/Part_AR_VLA_UnderbarrelShield.Part_AR_VLA_UnderbarrelShield",
       "/Game/Gear/Weapons/AssaultRifles/Vladof/_Shared/_Design/_Unique/Sickle/Parts/Part_AR_VLA_BoomSickle.Part_AR_VLA_BoomSickle",
       "/Game/Gear/Weapons/AssaultRifles/Vladof/_Shared/_Design/Parts/Grip/Part_AR_VLA_Grip_06.Part_AR_VLA_Grip_06",
-      "/Game/PatchDLC/Hibiscus/Gear/NPC_Weapons/Gaige/Part_AR_VLA_Material_Gaige_Hib.Part_AR_VLA_Material_Gaige_Hib"
+      "/Game/PatchDLC/Hibiscus/Gear/NPC_Weapons/Gaige/Part_AR_VLA_Material_Gaige_Hib.Part_AR_VLA_Material_Gaige_Hib",
+      "/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Unique/Monarch/Parts/Part_AR_VLA_Barrel_Monarch.Part_AR_VLA_Barrel_Monarch",
+      "/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Unique/Monarch/Parts/Part_AR_VLA_Material_Monarch.Part_AR_VLA_Material_Monarch",
+      "/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Unique/Monarch/Parts/Part_AR_VLA_Underbarrel_Monarch.Part_AR_VLA_Underbarrel_Monarch",
+      "/Game/PatchDLC/Takedown2/Gear/Weapons/WebSlinger/Parts/Part_AR_VLA_Barrel_WebSlinger.Part_AR_VLA_Barrel_WebSlinger",
+      "/Game/PatchDLC/Takedown2/Gear/Weapons/WebSlinger/Parts/Part_AR_VLA_Material_WebSlinger.Part_AR_VLA_Material_WebSlinger"
     ]
   },
   "BPInvPart_PS_DAL_C": {
@@ -4088,7 +4209,10 @@
       "/Game/PatchDLC/EventVDay/Gear/Weapon/_Unique/PolyAim/Parts/Part_SM_MAL_Barrel_01_PolyAim.Part_SM_MAL_Barrel_01_PolyAim",
       "/Game/PatchDLC/EventVDay/Gear/Weapon/_Unique/PolyAim/Parts/Part_SM_MAL_Material_PolyAim.Part_SM_MAL_Material_PolyAim",
       "/Game/PatchDLC/Hibiscus/Gear/Weapon/_Unique/SFForce/Parts/Part_SM_MAL_Material_SFforce.Part_SM_MAL_Material_SFforce",
-      "/Game/PatchDLC/Hibiscus/Gear/Weapon/_Unique/SFForce/Parts/Part_SM_MAL_Barrel_SFForce.Part_SM_MAL_Barrel_SFForce"
+      "/Game/PatchDLC/Hibiscus/Gear/Weapon/_Unique/SFForce/Parts/Part_SM_MAL_Barrel_SFForce.Part_SM_MAL_Barrel_SFForce",
+      "/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Unique/DNA/Parts/Part_SM_MAL_Barrel_DNA.Part_SM_MAL_Barrel_DNA",
+      "/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Unique/DNA/Parts/Part_SM_MAL_Mag_DNA.Part_SM_MAL_Mag_DNA",
+      "/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Unique/DNA/Parts/Part_SM_MAL_Material_DNA.Part_SM_MAL_Material_DNA"
     ]
   },
   "BPInvPart_MAL_SR_C": {
@@ -4172,12 +4296,14 @@
       "/Game/Gear/Weapons/SniperRifles/Maliwan/Shared/_Design/_Unique/_Legendary/Soleki/Parts/Part_MAL_SR_Material_Soleki.Part_MAL_SR_Material_Soleki",
       "/Game/Gear/Weapons/SniperRifles/Maliwan/Shared/_Design/_Unique/_Legendary/Soleki/Parts/Part_MAL_SR_Scope_Soleki.Part_MAL_SR_Scope_Soleki",
       "/Hibiscus/Enemies/Zealot/Pilfer/_Design/Weapon/Part_MAL_SR_Barrel_ETech_Pilfer.Part_MAL_SR_Barrel_ETech_Pilfer",
-      "/Game/PatchDLC/Geranium/Gear/Weapon/_Unique/ImaginaryNumber/Parts/Part_MAL_SR_Material_ImaginaryNumber.Part_MAL_SR_Material_ImaginaryNumber"
+      "/Game/PatchDLC/Geranium/Gear/Weapon/_Unique/ImaginaryNumber/Parts/Part_MAL_SR_Material_ImaginaryNumber.Part_MAL_SR_Material_ImaginaryNumber",
+      "/Game/PatchDLC/Geranium/Gear/Weapon/_Unique/ImaginaryNumber/Parts/Part_MAL_SR_Barrel_ImaginaryNumber.Part_MAL_SR_Barrel_ImaginaryNumber"
     ]
   },
   "BPInvPart_HW_COV_C": {
     "versions": [
-      {"version":1,"bits":6}
+      {"version":1,"bits":6},
+      {"version":57,"bits":7}
     ],
     "assets": [
       "/Game/Gear/Weapons/HeavyWeapons/ChildrenOfTheVault/_Shared/_Design/Parts/Barrel/Barrel_01/Part_HW_COV_Barrel_01.Part_HW_COV_Barrel_01",
@@ -4242,7 +4368,9 @@
       "/Game/PatchDLC/Raid1/BadassHeavyWeapons/COV/Part_HW_COV_Barrel_03_AI_UseONLY_Bullet.Part_HW_COV_Barrel_03_AI_UseONLY_Bullet",
       "/Game/PatchDLC/Hibiscus/Gear/Weapon/_Unique/SparkyBoom/Parts/Part_HW_COV_Barrel_SparkyBoom.Part_HW_COV_Barrel_SparkyBoom",
       "/Game/PatchDLC/Hibiscus/Gear/Weapon/_Unique/SparkyBoom/Parts/Part_HW_COV_Material_SparkyBoom.Part_HW_COV_Material_SparkyBoom",
-      "/Game/PatchDLC/Event2/Gear/Weapon/_Unique/YellowCake/Parts/Part_HW_COV_Barrel_ETech_YellowCake.Part_HW_COV_Barrel_ETech_YellowCake"
+      "/Game/PatchDLC/Event2/Gear/Weapon/_Unique/YellowCake/Parts/Part_HW_COV_Barrel_ETech_YellowCake.Part_HW_COV_Barrel_ETech_YellowCake",
+      "/Game/PatchDLC/Takedown2/Gear/Weapons/Globetrotter/Parts/Part_HW_COV_Barrel_Globetrotter.Part_HW_COV_Barrel_Globetrotter",
+      "/Game/PatchDLC/Takedown2/Gear/Weapons/Globetrotter/Parts/Part_HW_COV_Material_Globetrotter.Part_HW_COV_Material_Globetrotter"
     ]
   },
   "BPInvPart_SG_MAL_C": {
@@ -4441,7 +4569,8 @@
       "/Game/PatchDLC/Hibiscus/Gear/Weapon/_Unique/TheSeventhSense/Parts/Part_PS_JAK_Barrel_TheSeventhSense_MissionWeapon.Part_PS_JAK_Barrel_TheSeventhSense_MissionWeapon",
       "/Game/PatchDLC/Hibiscus/Gear/NPC_Weapons/Private_Eye/Part_PS_JAK_Material_Private_Eye.Part_PS_JAK_Material_Private_Eye",
       "/Game/PatchDLC/Geranium/Gear/Weapon/_Unique/Rose/Parts/Part_PS_JAK_Barrel_Rose.Part_PS_JAK_Barrel_Rose",
-      "/Game/PatchDLC/Geranium/Gear/Weapon/_Unique/Rose/Parts/Part_PS_JAK_Material_Rose.Part_PS_JAK_Material_Rose"
+      "/Game/PatchDLC/Geranium/Gear/Weapon/_Unique/Rose/Parts/Part_PS_JAK_Material_Rose.Part_PS_JAK_Material_Rose",
+      "/Game/PatchDLC/Geranium/Gear/Weapon/_Unique/Sheriff/Parts/Part_PS_JAK_Material_Sheriff.Part_PS_JAK_Material_Sheriff"
     ]
   },
   "BPInvPart_ATL_AR_C": {
@@ -4860,7 +4989,9 @@
       "/Game/PatchDLC/Dandelion/Gear/Weapon/_Unique/Nukem/Parts/Part_HW_TOR_Material_Nukem.Part_HW_TOR_Material_Nukem",
       "/Game/PatchDLC/Dandelion/Gear/Weapon/_Unique/Nukem/Parts/Part_HW_TOR_Barrel_Nukem.Part_HW_TOR_Barrel_Nukem",
       "/Game/PatchDLC/Dandelion/Gear/Weapon/_Unique/Creamer/Parts/Part_HW_TOR_Barrel_Creamer.Part_HW_TOR_Barrel_Creamer",
-      "/Game/PatchDLC/Dandelion/Gear/Weapon/_Unique/Creamer/Parts/Part_HW_TOR_Material_Creamer.Part_HW_TOR_Material_Creamer"
+      "/Game/PatchDLC/Dandelion/Gear/Weapon/_Unique/Creamer/Parts/Part_HW_TOR_Material_Creamer.Part_HW_TOR_Material_Creamer",
+      "/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Unique/Plague/Parts/Part_HW_TOR_Barrel_ETech_Plague.Part_HW_TOR_Barrel_ETech_Plague",
+      "/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Unique/Plague/Parts/Part_HW_TOR_Material_Plague.Part_HW_TOR_Material_Plague"
     ]
   },
   "BPInvPart_HW_VLA_C": {
@@ -4926,7 +5057,9 @@
       "/Game/PatchDLC/Dandelion/Gear/Weapon/_Unique/IonCannon/Parts/Part_HW_VLA_Material_IonCannon.Part_HW_VLA_Material_IonCannon",
       "/Game/PatchDLC/Raid1/BadassHeavyWeapons/VLA/Part_HW_VLA_Barrel_01_AI_UseONLY_Bullet.Part_HW_VLA_Barrel_01_AI_UseONLY_Bullet",
       "/Game/PatchDLC/Raid1/BadassHeavyWeapons/VLA/Part_HW_VLA_Barrel_02_AI_UseONLY_Bullet.Part_HW_VLA_Barrel_02_AI_UseONLY_Bullet",
-      "/Game/PatchDLC/Raid1/BadassHeavyWeapons/VLA/Part_HW_VLA_Barrel_03_AI_UseONLY_Bullet.Part_HW_VLA_Barrel_03_AI_UseONLY_Bullet"
+      "/Game/PatchDLC/Raid1/BadassHeavyWeapons/VLA/Part_HW_VLA_Barrel_03_AI_UseONLY_Bullet.Part_HW_VLA_Barrel_03_AI_UseONLY_Bullet",
+      "/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Unique/Backburner/Parts/Part_HW_VLA_Barrel_ETech_BackBurner.Part_HW_VLA_Barrel_ETech_BackBurner",
+      "/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Unique/Backburner/Parts/Part_HW_VLA_Material_BackBurner.Part_HW_VLA_Material_BackBurner"
     ]
   },
   "BPInvPart_PS_ATL_C": {
@@ -4969,7 +5102,10 @@
       "/Game/Gear/Weapons/Pistols/Atlas/_Shared/_Design/_Unique/Warmonger/Parts/Part_PS_ATL_Barrel_Warmonger.Part_PS_ATL_Barrel_Warmonger",
       "/Game/Gear/Weapons/Pistols/Atlas/_Shared/_Design/_Unique/Warmonger/Parts/Part_PS_ATL_Material_Warmonger.Part_PS_ATL_Material_Warmonger",
       "/Game/Gear/Weapons/Pistols/Atlas/_Shared/_Design/_Unique/Drill/Parts/Part_PS_ATL_Barrel_Drill.Part_PS_ATL_Barrel_Drill",
-      "/Game/Gear/Weapons/Pistols/Atlas/_Shared/_Design/_Unique/Drill/Parts/Part_PS_ATL_Material_Drill.Part_PS_ATL_Material_Drill"
+      "/Game/Gear/Weapons/Pistols/Atlas/_Shared/_Design/_Unique/Drill/Parts/Part_PS_ATL_Material_Drill.Part_PS_ATL_Material_Drill",
+      "/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Unique/DoubleTap/Parts/Part_PS_ATL_Barrel_DoubleTap.Part_PS_ATL_Barrel_DoubleTap",
+      "/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Unique/DoubleTap/Parts/Part_PS_ATL_Material_DoubleTap.Part_PS_ATL_Material_DoubleTap",
+      "/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Unique/DoubleTap/Parts/Part_PS_ATL_Launcher_DoubleTap.Part_PS_ATL_Launcher_DoubleTap"
     ]
   },
   "BPInvPartData_EridianFabricator_C": {
@@ -5056,7 +5192,9 @@
       "/Game/PatchDLC/Hibiscus/Gear/Weapon/_Unique/FrozenDevil/Parts/Part_PS_MAL_Barrel_FrozenDevil.Part_PS_MAL_Barrel_FrozenDevil",
       "/Game/PatchDLC/Hibiscus/Gear/Weapon/_Unique/FrozenDevil/Parts/Part_PS_MAL_Material_FrozenDevil.Part_PS_MAL_Material_FrozenDevil",
       "/Game/PatchDLC/Event2/Gear/Weapon/_Unique/GreaseTrap/Parts/Part_PS_MAL_Barrel_GreaseTrap.Part_PS_MAL_Barrel_GreaseTrap",
-      "/Game/PatchDLC/Event2/Gear/Weapon/_Unique/GreaseTrap/Parts/Part_PS_MAL_Material_GreaseTrap.Part_PS_MAL_Material_GreaseTrap"
+      "/Game/PatchDLC/Event2/Gear/Weapon/_Unique/GreaseTrap/Parts/Part_PS_MAL_Material_GreaseTrap.Part_PS_MAL_Material_GreaseTrap",
+      "/Game/PatchDLC/Geranium/Gear/Weapon/_Unique/BubbleBlaster/Parts/Part_PS_MAL_Barrel_BubbleBlaster.Part_PS_MAL_Barrel_BubbleBlaster",
+      "/Game/PatchDLC/Geranium/Gear/Weapon/_Unique/BubbleBlaster/Parts/Part_PS_MAL_Material_BubbleBlaster.Part_PS_MAL_Material_BubbleBlaster"
     ]
   },
   "BPInvPart_PS_VLA_C": {
@@ -5132,7 +5270,11 @@
       "/Game/Gear/Weapons/Pistols/Vladof/_Shared/_Design/_Unique/Infiniti/Parts/Part_PS_VLA_Mag_02_A_Infiniti.Part_PS_VLA_Mag_02_A_Infiniti",
       "/Game/Gear/Weapons/Pistols/Vladof/_Shared/_Design/_Unique/TheLeech/Parts/Part_PS_VLA_Material_TheLeech.Part_PS_VLA_Material_TheLeech",
       "/Game/Gear/Weapons/Pistols/Vladof/_Shared/_Design/_Unique/TheLeech/Parts/Part_PS_VLA_Underbarrel_TheLeech.Part_PS_VLA_Underbarrel_TheLeech",
-      "/Game/Gear/Weapons/Pistols/Vladof/_Shared/_Design/_Unique/TheLeech/Parts/Part_PS_VLA_Material_TheLeech.Part_PS_VLA_Material_TheLeech"
+      "/Game/Gear/Weapons/Pistols/Vladof/_Shared/_Design/_Unique/TheLeech/Parts/Part_PS_VLA_Material_TheLeech.Part_PS_VLA_Material_TheLeech",
+      "/Game/PatchDLC/Geranium/Gear/Weapon/_Unique/Lasocannon/Parts/Part_PS_VLA_Barrel_Lasocannon.Part_PS_VLA_Barrel_Lasocannon",
+      "/Game/PatchDLC/Geranium/Gear/Weapon/_Unique/Lasocannon/Parts/Part_PS_VLA_Material_Lasocannon.Part_PS_VLA_Material_Lasocannon",
+      "/Game/PatchDLC/Geranium/Gear/Weapon/_Unique/Miscreant/Parts/Part_PS_VLA_Barrel_Miscreant.Part_PS_VLA_Barrel_Miscreant",
+      "/Game/PatchDLC/Geranium/Gear/Weapon/_Unique/Miscreant/Parts/Part_PS_VLA_Material_Miscreant.Part_PS_VLA_Material_Miscreant"
     ]
   },
   "BPInvPart_SG_JAK_C": {
@@ -5219,12 +5361,23 @@
       "/Game/PatchDLC/Hibiscus/Gear/Weapon/_Unique/TheCure/Parts/Part_SG_JAK_Material_TheCure.Part_SG_JAK_Material_TheCure",
       "/Game/PatchDLC/Hibiscus/Gear/Weapon/_Unique/TheNothing/Parts/Part_SG_JAK_Material_TheNothing.Part_SG_JAK_Material_TheNothing",
       "/Game/PatchDLC/Hibiscus/Gear/Weapon/_Unique/TheNothing/Parts/Part_SG_JAK_Trigger_TheNothing.Part_SG_JAK_Trigger_TheNothing",
-      "/Game/PatchDLC/Geranium/Gear/Weapon/_Unique/Dakota/Parts/Part_SG_JAK_Material_Dakota.Part_SG_JAK_Material_Dakota"
+      "/Game/PatchDLC/Geranium/Gear/Weapon/_Unique/Dakota/Parts/Part_SG_JAK_Material_Dakota.Part_SG_JAK_Material_Dakota",
+      "/Game/PatchDLC/Geranium/Gear/Weapon/_Unique/Dakota/Parts/Part_SG_JAK_Barrel_Dakota.Part_SG_JAK_Barrel_Dakota",
+      "/Game/PatchDLC/Geranium/Gear/Weapon/_Unique/Dakota/Parts/Part_SG_JAK_Trigger_Dakota.Part_SG_JAK_Trigger_Dakota",
+      "/Game/PatchDLC/Geranium/Gear/Weapon/_Unique/SpeakEasy/Parts/Part_SG_JAK_Barrel_SpeakEasy.Part_SG_JAK_Barrel_SpeakEasy",
+      "/Game/PatchDLC/Geranium/Gear/Weapon/_Unique/SpeakEasy/Parts/Part_SG_JAK_Material_SpeakEasy.Part_SG_JAK_Material_SpeakEasy",
+      "/Game/PatchDLC/Geranium/Gear/Weapon/_Unique/SpeakEasy/Parts/Part_SG_JAK_Trigger_SpeakEasy.Part_SG_JAK_Trigger_SpeakEasy",
+      "/Game/PatchDLC/Geranium/Gear/Weapon/_Unique/SpeakEasy/Parts/Part_SG_Barrel_SpeakEasy.Part_SG_Barrel_SpeakEasy",
+      "/Game/PatchDLC/Geranium/Gear/Weapon/_Unique/Fakobs/Parts/Part_SG_JAK_Material_Fakobs.Part_SG_JAK_Material_Fakobs",
+      "/Game/PatchDLC/Geranium/Gear/Weapon/_Unique/Fakobs/Parts/Part_SG_JAK_Trigger_Fakobs.Part_SG_JAK_Trigger_Fakobs",
+      "/Game/PatchDLC/Geranium/Gear/Weapon/_Unique/McSmugger/Parts/Part_SG_JAK_Barrel_McSmuuger.Part_SG_JAK_Barrel_McSmuuger",
+      "/Game/PatchDLC/Geranium/Gear/Weapon/_Unique/McSmugger/Parts/Part_SG_JAK_Material_McSmugger.Part_SG_JAK_Material_McSmugger"
     ]
   },
   "BPInvPart_SG_TED_C": {
     "versions": [
-      {"version":1,"bits":6}
+      {"version":1,"bits":6},
+      {"version":56,"bits":7}
     ],
     "assets": [
       "/Game/Gear/Weapons/Shotguns/Tediore/_Shared/_Design/Parts/Barrel/Barrel_01/Part_SG_TED_Barrel_01.Part_SG_TED_Barrel_01",
@@ -5287,7 +5440,10 @@
       "/Game/PatchDLC/Hibiscus/Gear/Weapon/_Unique/SacrificalLamb/Parts/Part_SG_TED_Barrel_SacrificialLamb.Part_SG_TED_Barrel_SacrificialLamb",
       "/Game/PatchDLC/EventVDay/Gear/Weapon/_Unique/TwitchPrime/Parts/Part_SG_TED_Mat_Twitch.Part_SG_TED_Mat_Twitch",
       "/Game/PatchDLC/Hibiscus/Gear/Weapon/_Unique/Omen/Parts/Part_SG_TED_Barrel_Omen.Part_SG_TED_Barrel_Omen",
-      "/Game/PatchDLC/Hibiscus/Gear/Weapon/_Unique/Omen/Parts/Part_SG_TED_Material_Omen.Part_SG_TED_Material_Omen"
+      "/Game/PatchDLC/Hibiscus/Gear/Weapon/_Unique/Omen/Parts/Part_SG_TED_Material_Omen.Part_SG_TED_Material_Omen",
+      "/Game/PatchDLC/Geranium/Gear/Weapon/_Unique/Brightside/Parts/Part_SG_TED_Material_Brightside.Part_SG_TED_Material_Brightside",
+      "/Game/PatchDLC/Geranium/Gear/Weapon/_Unique/Brightside/Parts/Part_SG_TED_Barrel_Brightside.Part_SG_TED_Barrel_Brightside",
+      "/Game/PatchDLC/Geranium/Gear/Weapon/_Unique/Brightside/Parts/Part_SG_TED_TypeMod_Brightside.Part_SG_TED_TypeMod_Brightside"
     ]
   },
   "BPInvPart_SG_Torgue_C": {
@@ -5360,12 +5516,15 @@
       "/Game/PatchDLC/Raid1/Gear/Weapons/TiggsBoom/Parts/Part_SG_Torgue_TiggsBoom.Part_SG_Torgue_TiggsBoom",
       "/Hibiscus/Enemies/Lunatic/_Shared/_Design/Weapon/Parts/Part_SG_Torgue_Barrel_ETech_Lunatic_Lob.Part_SG_Torgue_Barrel_ETech_Lunatic_Lob",
       "/Game/PatchDLC/Hibiscus/Gear/Weapon/_Unique/Shocker/Parts/Part_SG_TOR_Material_Shocker.Part_SG_TOR_Material_Shocker",
-      "/Game/PatchDLC/Hibiscus/Gear/Weapon/_Unique/Shocker/Parts/Part_SG_Torgue_Barrel_ETech_Shocker.Part_SG_Torgue_Barrel_ETech_Shocker"
+      "/Game/PatchDLC/Hibiscus/Gear/Weapon/_Unique/Shocker/Parts/Part_SG_Torgue_Barrel_ETech_Shocker.Part_SG_Torgue_Barrel_ETech_Shocker",
+      "/Game/PatchDLC/Geranium/Gear/Weapon/_Unique/Shoveler/Parts/Part_SG_Torgue_Material_Shoveler.Part_SG_Torgue_Material_Shoveler",
+      "/Game/PatchDLC/Geranium/Gear/Weapon/_Unique/Shoveler/Parts/Part_SG_Torgue_Barrel_Shoveler.Part_SG_Torgue_Barrel_Shoveler"
     ]
   },
   "BPInvPart_SM_TED_C": {
     "versions": [
-      {"version":1,"bits":6}
+      {"version":1,"bits":6},
+      {"version":56,"bits":7}
     ],
     "assets": [
       "/Game/Gear/Weapons/SMGs/Tediore/_Shared/_Design/Parts/Barrel/Barrel_01/Part_SM_TED_Barrel_01.Part_SM_TED_Barrel_01",
@@ -5429,7 +5588,9 @@
       "/Hibiscus/Enemies/_Shared/_Design/ItemPools/PartOverride/Part_SM_TED_Barrel_ETech_Small_Hib.Part_SM_TED_Barrel_ETech_Small_Hib",
       "/Hibiscus/Enemies/_Shared/_Design/ItemPools/PartOverride/Part_SM_TED_Barrel_ETech_Hib_Specter.Part_SM_TED_Barrel_ETech_Hib_Specter",
       "/Game/PatchDLC/Event2/Gear/Weapon/_Unique/NeedleGun/Parts/Part_SM_TED_Barrel_NeedleGun.Part_SM_TED_Barrel_NeedleGun",
-      "/Game/PatchDLC/Event2/Gear/Weapon/_Unique/NeedleGun/Parts/Part_SM_TED_Material_NeedleGun.Part_SM_TED_Material_NeedleGun"
+      "/Game/PatchDLC/Event2/Gear/Weapon/_Unique/NeedleGun/Parts/Part_SM_TED_Material_NeedleGun.Part_SM_TED_Material_NeedleGun",
+      "/Game/PatchDLC/Geranium/Gear/Weapon/_Unique/Earthbound/Parts/Part_SM_TED_Material_Earthbound.Part_SM_TED_Material_Earthbound",
+      "/Game/PatchDLC/Geranium/Gear/Weapon/_Unique/Earthbound/Parts/Part_SM_TED_Barrel_Earthbound.Part_SM_TED_Barrel_Earthbound"
     ]
   },
   "BPInvPart_SR_DAL_C": {
@@ -5511,7 +5672,10 @@
       "/Game/PatchDLC/BloodyHarvest/Gear/Weapons/SniperRifles/Dahl/_Design/_Unique/Frostbolt/Parts/Part_SR_DAL_Mat_Fbolt.Part_SR_DAL_Mat_Fbolt",
       "/Game/PatchDLC/BloodyHarvest/Gear/Weapons/SniperRifles/Dahl/_Design/_Unique/Frostbolt/Parts/Part_SR_DAL_Barrel_FBolt_A.Part_SR_DAL_Barrel_FBolt_A",
       "/Game/PatchDLC/Dandelion/Gear/Weapon/_Unique/AutoAime/Parts/Part_SR_DAL_Barrel_AutoAime.Part_SR_DAL_Barrel_AutoAime",
-      "/Game/PatchDLC/Dandelion/Gear/Weapon/_Unique/AutoAime/Parts/Part_SR_DAL_Material_AutoAime.Part_SR_DAL_Material_AutoAime"
+      "/Game/PatchDLC/Dandelion/Gear/Weapon/_Unique/AutoAime/Parts/Part_SR_DAL_Material_AutoAime.Part_SR_DAL_Material_AutoAime",
+      "/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Unique/SandHawk/PArts/Part_SR_DAL_Barrel_SandHawk.Part_SR_DAL_Barrel_SandHawk",
+      "/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Unique/SandHawk/PArts/Part_SR_DAL_SandHawk_Mat.Part_SR_DAL_SandHawk_Mat",
+      "/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Unique/SandHawk/PArts/Part_SR_DAL_Scope_SandHawk.Part_SR_DAL_Scope_SandHawk"
     ]
   },
   "BPInvPart_SR_HYP_C": {
@@ -5743,7 +5907,9 @@
       "/Game/Gear/Weapons/SniperRifles/Vladof/_Shared/_Design/_Unique/Lyuda/Parts/Part_SR_VLA_Barrel_Lyuda.Part_SR_VLA_Barrel_Lyuda",
       "/Game/Gear/Weapons/SniperRifles/Vladof/_Shared/_Design/_Unique/Lyuda/Parts/Part_SR_VLA_Material_Lyuda.Part_SR_VLA_Material_Lyuda",
       "/Game/Gear/Weapons/SniperRifles/Vladof/_Shared/_Design/_Unique/Prison/Parts/Part_SR_VLA_Barrel_Prison.Part_SR_VLA_Barrel_Prison",
-      "/Game/Gear/Weapons/SniperRifles/Vladof/_Shared/_Design/_Unique/Prison/Parts/Part_SR_VLA_Material_Prison.Part_SR_VLA_Material_Prison"
+      "/Game/Gear/Weapons/SniperRifles/Vladof/_Shared/_Design/_Unique/Prison/Parts/Part_SR_VLA_Material_Prison.Part_SR_VLA_Material_Prison",
+      "/Game/PatchDLC/Takedown2/Gear/Weapons/WebSlinger/Parts/Part_SR_VLA_Material_WebSlinger.Part_SR_VLA_Material_WebSlinger",
+      "/Game/PatchDLC/Takedown2/Gear/Weapons/WebSlinger/Parts/Part_SR_VLA_Barrel_WebSlinger.Part_SR_VLA_Barrel_WebSlinger"
     ]
   },
   "BPInvPart_GrenadeMod_C": {
@@ -5906,7 +6072,11 @@
       "/Game/PatchDLC/Dandelion/Gear/Grenade/AcidBurn/Parts/Part_GM_Material_AcidBurn.Part_GM_Material_AcidBurn",
       "/Game/PatchDLC/Dandelion/Gear/Grenade/Slider/Parts/Part_GM_Aug_Slider.Part_GM_Aug_Slider",
       "/Game/PatchDLC/Dandelion/Gear/Grenade/Slider/Parts/Part_GM_Material_Slider.Part_GM_Material_Slider",
-      "/Game/PatchDLC/Event2/Gear/GrenadeMods/FishSlap/Parts/Part_GM_Aug_FishSlap.Part_GM_Aug_FishSlap"
+      "/Game/PatchDLC/Event2/Gear/GrenadeMods/FishSlap/Parts/Part_GM_Aug_FishSlap.Part_GM_Aug_FishSlap",
+      "/Game/PatchDLC/Geranium/Gear/Grenade/CoreBurst/Parts/Part_GM_Aug_CoreBurst.Part_GM_Aug_CoreBurst",
+      "/Game/PatchDLC/Geranium/Gear/Grenade/CoreBurst/Parts/Part_GM_Material_CoreBurst.Part_GM_Material_CoreBurst",
+      "/Game/PatchDLC/Takedown2/Gear/GrenadeMods/Lightspeed/Parts/Part_GM_Aug_Lightspeed.Part_GM_Aug_Lightspeed",
+      "/Game/PatchDLC/Takedown2/Gear/GrenadeMods/Lightspeed/Parts/Part_GM_Mat_Lightspeed.Part_GM_Mat_Lightspeed"
     ]
   },
   "BPInvPart_Shield_C": {
@@ -6149,7 +6319,11 @@
       "/Game/PatchDLC/Event2/Gear/Shield/_Unique/MEAT/Parts/Part_Shield_Aug_MEAT.Part_Shield_Aug_MEAT",
       "/Game/PatchDLC/Event2/Gear/Shield/_Unique/MEAT/Parts/Part_Shield_Mat_MEAT.Part_Shield_Mat_MEAT",
       "/Game/PatchDLC/Event2/Gear/Shield/_Unique/Firewall/Parts/Part_Shield_Firewall.Part_Shield_Firewall",
-      "/Game/PatchDLC/Event2/Gear/Shield/_Unique/Firewall/Parts/Part_Shield_Mat_Firewall.Part_Shield_Mat_Firewall"
+      "/Game/PatchDLC/Event2/Gear/Shield/_Unique/Firewall/Parts/Part_Shield_Mat_Firewall.Part_Shield_Mat_Firewall",
+      "/Game/PatchDLC/Takedown2/Gear/Shields/Stinger/Parts/Part_Shield_Aug_Stinger.Part_Shield_Aug_Stinger",
+      "/Game/PatchDLC/Takedown2/Gear/Shields/Stinger/Parts/Part_Shield_Mat_PAN_LGD_Stinger.Part_Shield_Mat_PAN_LGD_Stinger",
+      "/Game/PatchDLC/Takedown2/Gear/Shields/Aesclepius/Parts/Part_Shield_ANS_Aug_LGD_Aesclepius.Part_Shield_ANS_Aug_LGD_Aesclepius",
+      "/Game/PatchDLC/Takedown2/Gear/Shields/Aesclepius/Parts/Part_Shield_ANS_Material_LGD_Aesclepius.Part_Shield_ANS_Material_LGD_Aesclepius"
     ]
   },
   "BPInvPart_Artifact_C": {
@@ -7265,7 +7439,12 @@
       "/Game/PatchDLC/Dandelion/Gear/Weapon/_Unique/SlowHand/Parts/Part_SG_Hyp_Barrel_SlowHand.Part_SG_Hyp_Barrel_SlowHand",
       "/Game/PatchDLC/Dandelion/Gear/Weapon/_Unique/SlowHand/Parts/Part_SG_Hyp_Material_SlowHand.Part_SG_Hyp_Material_SlowHand",
       "/Game/PatchDLC/Dandelion/Gear/Weapon/_Unique/SlowHand/Parts/Part_SG_Hyp_Slowhand_ETECH_A.Part_SG_Hyp_Slowhand_ETECH_A",
-      "/Game/PatchDLC/Hibiscus/Gear/Weapon/_Unique/Firecracker/Parts/Part_SG_Hyp_Barrel_Firecracker.Part_SG_Hyp_Barrel_Firecracker"
+      "/Game/PatchDLC/Hibiscus/Gear/Weapon/_Unique/Firecracker/Parts/Part_SG_Hyp_Barrel_Firecracker.Part_SG_Hyp_Barrel_Firecracker",
+      "/Game/PatchDLC/Event2/Gear/Weapon/_Unique/IceBurger/Parts/Part_SG_Hyp_Barrel_IceBurger.Part_SG_Hyp_Barrel_IceBurger",
+      "/Game/PatchDLC/Event2/Gear/Weapon/_Unique/IceBurger/Parts/Part_SG_Hyp_Barrel_03_A_Iceburger.Part_SG_Hyp_Barrel_03_A_Iceburger",
+      "/Game/PatchDLC/Event2/Gear/Weapon/_Unique/IceBurger/Parts/Part_SG_Hyp_Material_IceBurger.Part_SG_Hyp_Material_IceBurger",
+      "/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Unique/Reflux/Parts/Part_SG_Hyp_Barrel_Reflux.Part_SG_Hyp_Barrel_Reflux",
+      "/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Unique/Reflux/Parts/Part_SG_Hyp_Material_Reflux.Part_SG_Hyp_Material_Reflux"
     ]
   },
   "BPInvPart_SM_Hyperion_C": {
@@ -7351,7 +7530,9 @@
       "/Game/PatchDLC/Hibiscus/Gear/Weapon/_Unique/Oldridian/Parts/Part_SM_HYP_Shield_Oldridian.Part_SM_HYP_Shield_Oldridian",
       "/Game/PatchDLC/Steam/Gear/Weapons/SteamGun/Parts/Part_SM_HYP_Barrel_ShortStick.Part_SM_HYP_Barrel_ShortStick",
       "/Game/PatchDLC/Steam/Gear/Weapons/SteamGun/Parts/Part_SM_HYP_Material_ShortStick.Part_SM_HYP_Material_ShortStick",
-      "/Game/PatchDLC/Steam/Gear/Weapons/SteamGun/Parts/Part_SM_HYP_Material_ShortStick_Legendary.Part_SM_HYP_Material_ShortStick_Legendary"
+      "/Game/PatchDLC/Steam/Gear/Weapons/SteamGun/Parts/Part_SM_HYP_Material_ShortStick_Legendary.Part_SM_HYP_Material_ShortStick_Legendary",
+      "/Game/PatchDLC/Takedown2/Gear/Weapons/Smog/Parts/Part_SM_HYP_Material_Smog.Part_SM_HYP_Material_Smog",
+      "/Game/PatchDLC/Takedown2/Gear/Weapons/Smog/Parts/Part_SM_HYP_Barrel_Smog.Part_SM_HYP_Barrel_Smog"
     ]
   },
   "ManufacturerData": {
@@ -7458,7 +7639,9 @@
       "/Game/Gear/Weapons/Pistols/ChildrenOfTheVault/_Shared/_Design/_Unique/Chad/Parts/Part_PS_COV_Material_Chad.Part_PS_COV_Material_Chad",
       "/Game/PatchDLC/Dandelion/Gear/Weapon/Pistol/CotV/_Shared/_Design/Part/Barrel/Part_PS_Dandelion_COV_Barrel_MoneyGun.Part_PS_Dandelion_COV_Barrel_MoneyGun",
       "/Game/PatchDLC/Hibiscus/Gear/Weapon/_Unique/Hydrafrost/Parts/Part_PS_COV_Barrel_Hydrafrost.Part_PS_COV_Barrel_Hydrafrost",
-      "/Game/PatchDLC/Hibiscus/Gear/Weapon/_Unique/Hydrafrost/Parts/Part_PS_COV_Material_Hydrafrost.Part_PS_COV_Material_Hydrafrost"
+      "/Game/PatchDLC/Hibiscus/Gear/Weapon/_Unique/Hydrafrost/Parts/Part_PS_COV_Material_Hydrafrost.Part_PS_COV_Material_Hydrafrost",
+      "/Game/PatchDLC/Geranium/Gear/Weapon/_Unique/Gargoyle/Parts/Part_PS_COV_Barrel_Gargoyle.Part_PS_COV_Barrel_Gargoyle",
+      "/Game/PatchDLC/Geranium/Gear/Weapon/_Unique/Gargoyle/Parts/Part_PS_COV_Material_Gargoyle.Part_PS_COV_Material_Gargoyle"
     ]
   },
   "BPInvPart_PS_TOR_C": {
@@ -8150,7 +8333,17 @@
       "/Game/PatchDLC/Event2/Gear/Weapon/EndGameParts/_Generic/Passive_All_RadDamage/GPart_All_unhealthyraddamage.GPart_All_UnhealthyRadDamage",
       "/Game/PatchDLC/Event2/Gear/Weapon/EndGameParts/_Generic/Passive_SlideRegenShields/GPart_All_SlideRegenShields.GPart_All_SlideRegenShields",
       "/Game/PatchDLC/Event2/Gear/Weapon/EndGameParts/_Generic/SkillActive_ShockFeedback/GPart_All_ShockFeedback.GPart_All_ShockFeedback",
-      "/Game/PatchDLC/Event2/Gear/Weapon/EndGameParts/_Generic/SkillActive_WeaponDamage/GPart_All_WeaponDamage.GPart_All_WeaponDamage"
+      "/Game/PatchDLC/Event2/Gear/Weapon/EndGameParts/_Generic/SkillActive_WeaponDamage/GPart_All_WeaponDamage.GPart_All_WeaponDamage",
+      "/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Design/MayhemParts/Part_WeaponMayhemLevel_01.Part_WeaponMayhemLevel_01",
+      "/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Design/MayhemParts/Part_WeaponMayhemLevel_02.Part_WeaponMayhemLevel_02",
+      "/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Design/MayhemParts/Part_WeaponMayhemLevel_03.Part_WeaponMayhemLevel_03",
+      "/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Design/MayhemParts/Part_WeaponMayhemLevel_04.Part_WeaponMayhemLevel_04",
+      "/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Design/MayhemParts/Part_WeaponMayhemLevel_05.Part_WeaponMayhemLevel_05",
+      "/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Design/MayhemParts/Part_WeaponMayhemLevel_06.Part_WeaponMayhemLevel_06",
+      "/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Design/MayhemParts/Part_WeaponMayhemLevel_07.Part_WeaponMayhemLevel_07",
+      "/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Design/MayhemParts/Part_WeaponMayhemLevel_08.Part_WeaponMayhemLevel_08",
+      "/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Design/MayhemParts/Part_WeaponMayhemLevel_09.Part_WeaponMayhemLevel_09",
+      "/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Design/MayhemParts/Part_WeaponMayhemLevel_10.Part_WeaponMayhemLevel_10"
     ]
   },
   "DownloadableEntitlementPartData": {
@@ -9680,7 +9873,34 @@
       "/Geranium/Missions/Plot/Forest/ItemPool_Forest_CoreSample.ItemPool_Forest_CoreSample",
       "/Geranium/Missions/Plot/Lodge/ItemPool_Lodge_Tapestry.ItemPool_Lodge_Tapestry",
       "/Game/PatchDLC/Geranium/InteractiveObjects/PlayerQuarters/ItemPools/ItemPool_RoomDeco_KeyToCity.ItemPool_RoomDeco_KeyToCity",
-      "/Geranium/Missions/Side/Frontier/MoneyBackGuarantee/ItemPool_MoneyBackEchoLog.ItemPool_MoneyBackEchoLog"
+      "/Geranium/Missions/Side/Frontier/MoneyBackGuarantee/ItemPool_MoneyBackEchoLog.ItemPool_MoneyBackEchoLog",
+      "/Game/PatchDLC/Event3/InteractiveObjects/TalismanLootAltar/ItemPool_Talisman_AR_Legendaries.ItemPool_Talisman_AR_Legendaries",
+      "/Game/PatchDLC/Event3/InteractiveObjects/TalismanLootAltar/ItemPool_Talisman_HW_Legendaries.ItemPool_Talisman_HW_Legendaries",
+      "/Game/PatchDLC/Event3/InteractiveObjects/TalismanLootAltar/ItemPool_Talisman_PS_Legendaries.ItemPool_Talisman_PS_Legendaries",
+      "/Game/PatchDLC/Event3/InteractiveObjects/TalismanLootAltar/ItemPool_Talisman_SG_Legendaries.ItemPool_Talisman_SG_Legendaries",
+      "/Game/PatchDLC/Event3/InteractiveObjects/TalismanLootAltar/ItemPool_Talisman_SMG_Legendaries.ItemPool_Talisman_SMG_Legendaries",
+      "/Game/PatchDLC/Event3/InteractiveObjects/TalismanLootAltar/ItemPool_Talisman_SN_Legendaries.ItemPool_Talisman_SN_Legendaries",
+      "/Geranium/InteractiveObjects/EchoLog_NonMission/Data/ItemPool/ItemPool_EchoLog_NonMission_Geranium_Frontier01.ItemPool_EchoLog_NonMission_Geranium_Frontier01",
+      "/Geranium/InteractiveObjects/EchoLog_NonMission/Data/ItemPool/ItemPool_EchoLog_NonMission_Geranium_Frontier02.ItemPool_EchoLog_NonMission_Geranium_Frontier02",
+      "/Geranium/InteractiveObjects/EchoLog_NonMission/Data/ItemPool/ItemPool_EchoLog_NonMission_Geranium_Frontier03.ItemPool_EchoLog_NonMission_Geranium_Frontier03",
+      "/Geranium/InteractiveObjects/EchoLog_NonMission/Data/ItemPool/ItemPool_EchoLog_NonMission_Geranium_Frontier04.ItemPool_EchoLog_NonMission_Geranium_Frontier04",
+      "/Geranium/Missions/Side/Frontier/MoneyBackGuarantee/ItemPool_MoneyBack_Note.ItemPool_MoneyBack_Note",
+      "/Geranium/Missions/Side/Forest/BloodAndBeans/ItemPoolData_CoolBeans.ItemPoolData_CoolBeans",
+      "/Geranium/Missions/Side/Forest/BloodAndBeans/MissionItemPoolData_BloodAndBeans_CoolBeans.MissionItemPoolData_BloodAndBeans_CoolBeans",
+      "/Game/PatchDLC/Event2/Pickups/RoomDecoration/ItemPool_CartelsRoomDeco.ItemPool_CartelsRoomDeco",
+      "/Game/PatchDLC/Geranium/InteractiveObjects/PlayerQuarters/ItemPools/ItemPool_RoomDeco_Geranium_IO_1.ItemPool_RoomDeco_Geranium_IO_1",
+      "/Game/PatchDLC/Geranium/InteractiveObjects/PlayerQuarters/ItemPools/ItemPool_RoomDeco_Geranium_IO_2.ItemPool_RoomDeco_Geranium_IO_2",
+      "/Game/PatchDLC/Geranium/InteractiveObjects/PlayerQuarters/ItemPools/ItemPool_RoomDeco_Geranium_IO_3.ItemPool_RoomDeco_Geranium_IO_3",
+      "/Geranium/Missions/Side/Frontier/MoneyBackGuarantee/AIP_Jacobs_Fakobs.AIP_Jacobs_Fakobs",
+      "/Geranium/Missions/Side/Lodge/DirtyDeeds/ItemPoolData_BubbleGun.ItemPoolData_BubbleGun",
+      "/Game/PatchDLC/Mayhem2/Abilities/Enemy/FinishThem/ItemPool_Mayhem2_FinishThem.ItemPool_Mayhem2_FinishThem",
+      "/Game/PatchDLC/Mayhem2/Abilities/Enemy/HealNo/ItemPool_Mayhem2_HealNo.ItemPool_Mayhem2_HealNo",
+      "/Game/PatchDLC/Mayhem2/Abilities/Player/PartyTime/ItemPool_Mayhem2_PartyTime.ItemPool_Mayhem2_PartyTime",
+      "/Game/PatchDLC/Mayhem2/Abilities/Player/RogueLite/ItemPool_RogueLite.ItemPool_RogueLite",
+      "/Game/PatchDLC/Mayhem2/Abilities/Player/RoidRage/ItemPool_Ammo_Grenades_RoidRage.ItemPool_Ammo_Grenades_RoidRage",
+      "/Game/PatchDLC/Mayhem2/Gear/ItemPoolExpansion_Mayhem2/ItemPool_Mayhem2_Legendaries.ItemPool_Mayhem2_Legendaries",
+      "/Game/PatchDLC/Takedown2/InteractiveObjects/PlayerQuarters/ItemPools/ItemPool_RoomDeco_Takedown2.ItemPool_RoomDeco_Takedown2",
+      "/Geranium/NonPlayerCharacters/Rose/_TheBoss/Weapon/ItemPool_RoseBoss_Pistol.ItemPool_RoseBoss_Pistol"
     ]
   },
   "OakDownloadableContentLicenseData": {
