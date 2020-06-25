@@ -1284,12 +1284,12 @@
       "/Game/PatchDLC/Geranium/GameData/Challenges/CrewChallenges/JakobsJournal/Data/EchoLog_JakobsJournal_10.EchoLog_JakobsJournal_10",
       "/Game/PatchDLC/Geranium/GameData/Challenges/CrewChallenges/JakobsJournal/Data/EchoLog_JakobsJournal_11.EchoLog_JakobsJournal_11",
       "/Game/PatchDLC/Geranium/GameData/Challenges/CrewChallenges/JakobsJournal/Data/EchoLog_JakobsJournal_12.EchoLog_JakobsJournal_12",
-      "/Geranium/Missions/Plot/Facility/EchoLog_DigilineKey.EchoLog_DigilineKey",
-      "/Geranium/Missions/Plot/Facility/EchoLog_DigilineUpgrade.EchoLog_DigilineUpgrade",
+      "/Game/PatchDLC/Geranium/Missions/Plot/Facility/EchoLog_DigilineKey.EchoLog_DigilineKey",
+      "/Game/PatchDLC/Geranium/Missions/Plot/Facility/EchoLog_DigilineUpgrade.EchoLog_DigilineUpgrade",
       "/Geranium/Missions/Plot/Facility/EchoLog_OvercomeHQBlockade_TechnicalEchoLog.EchoLog_OvercomeHQBlockade_TechnicalEchoLog",
       "/Geranium/NonPlayerCharacters/Rose/_TheBoss/Weapon/InvData_RoseBoss_Sword.InvData_RoseBoss_Sword",
       "/Game/PatchDLC/Geranium/Customizations/RoomDeco/RoomDecoration_KeyToCity.InvData_RoomDecoration_KeyToCity",
-      "/Geranium/Missions/Side/Frontier/MoneyBackGuarantee/EchoLog_MoneyBackEchoLog.EchoLog_MoneyBackEchoLog",
+      "/Game/PatchDLC/Geranium/Missions/Side/MoneyBackGuarantee/EchoLog_MoneyBackEchoLog.EchoLog_MoneyBackEchoLog",
       "/Game/PatchDLC/Geranium/InteractiveObjects/EchoLogs/EchoLogData/EchoLogData_NonMission_Geranium_Front1.EchoLogData_NonMission_Geranium_Front1",
       "/Game/PatchDLC/Geranium/InteractiveObjects/EchoLogs/EchoLogData/EchoLogData_NonMission_Geranium_Miracle01.EchoLogData_NonMission_Geranium_Miracle01",
       "/Game/PatchDLC/Geranium/InteractiveObjects/EchoLogs/EchoLogData/EchoLogData_NonMission_Geranium_Miracle02.EchoLogData_NonMission_Geranium_Miracle02",
@@ -3543,13 +3543,13 @@
       "/Game/PatchDLC/Geranium/GameData/Challenges/CrewChallenges/JakobsJournal/Data/EchoLog_JakobsJournal_12.InvBal_EchoLog_JakobsJournal_12",
       "/Game/PatchDLC/Event2/Gear/Shield/_Unique/Firewall/Balance/InvBalD_Shield_Legendary_Firewall.InvBalD_Shield_Legendary_Firewall",
       "/Game/PatchDLC/Event2/Gear/Weapon/_Unique/NeedleGun/Balance/Balance_SM_TED_NeedleGun.Balance_SM_TED_NeedleGun",
-      "/Geranium/Missions/Plot/Facility/EchoLog_DigilineKey.InvBal_EchoLog_DigilineKey",
-      "/Geranium/Missions/Plot/Facility/EchoLog_DigilineUpgrade.InvBal_EchoLog_DigilineUpgrade",
+      "/Game/PatchDLC/Geranium/Missions/Plot/Facility/EchoLog_DigilineKey.InvBal_EchoLog_DigilineKey",
+      "/Game/PatchDLC/Geranium/Missions/Plot/Facility/EchoLog_DigilineUpgrade.InvBal_EchoLog_DigilineUpgrade",
       "/Geranium/Missions/Plot/Facility/EchoLog_OvercomeHQBlockade_TechnicalEchoLog.InvBal_EchoLog_OvercomeHQBlockade_TechnicalEchoLog",
       "/Geranium/NonPlayerCharacters/Rose/_TheBoss/Weapon/Balance_RoseBoss_Sword.Balance_RoseBoss_Sword",
       "/Game/PatchDLC/Geranium/Customizations/RoomDeco/RoomDecoration_KeyToCity.InvBal_RoomDecoration_KeyToCity",
       "/Game/PatchDLC/Hibiscus/Gear/NPC_Weapons/Private_Eye/Balance_PS_JAK_Private_Eye.Balance_PS_JAK_Private_Eye",
-      "/Geranium/Missions/Side/Frontier/MoneyBackGuarantee/EchoLog_MoneyBackEchoLog.InvBal_EchoLog_MoneyBackEchoLog",
+      "/Game/PatchDLC/Geranium/Missions/Side/MoneyBackGuarantee/EchoLog_MoneyBackEchoLog.InvBal_EchoLog_MoneyBackEchoLog",
       "/Game/PatchDLC/Geranium/Gear/Weapon/_Unique/CoolBeans/Balance/Balance_AR_JAK_CoolBeans.Balance_AR_JAK_CoolBeans",
       "/Game/PatchDLC/Geranium/Gear/Weapon/_Unique/Dakota/Balance/Balance_SG_JAK_Dakota.Balance_SG_JAK_Dakota",
       "/Game/PatchDLC/Geranium/Gear/Weapon/_Unique/ImaginaryNumber/Balance/Balance_MAL_SR_ImaginaryNumber.Balance_MAL_SR_ImaginaryNumber",
@@ -7456,7 +7456,9 @@
       "/Game/PatchDLC/Hibiscus/Gear/ClassMods/_Design/BSM/ClassMod_Part_Skill_Hib_BeastMaster_PackTac.ClassMod_Part_Skill_Hib_BeastMaster_PackTac",
       "/Game/PatchDLC/Hibiscus/Gear/ClassMods/_Design/GUN/ClassMod_Part_Skill_Gunner_IronBank_HIB.ClassMod_Part_Skill_Gunner_IronBank_HIB",
       "/Game/PatchDLC/Hibiscus/Gear/ClassMods/_Design/GUN/ClassMod_Part_Skill_Gunner_MatchedSEt_HIB.ClassMod_Part_Skill_Gunner_MatchedSEt_HIB",
-      "/Game/PatchDLC/Hibiscus/Gear/ClassMods/_Design/GUN/ClassMod_Part_Skill_Gunner_MeansOfDestruction_HIB.ClassMod_Part_Skill_Gunner_MeansOfDestruction_HIB"
+      "/Game/PatchDLC/Hibiscus/Gear/ClassMods/_Design/GUN/ClassMod_Part_Skill_Gunner_MeansOfDestruction_HIB.ClassMod_Part_Skill_Gunner_MeansOfDestruction_HIB",
+      "/Game/Gear/ClassMods/_Design/PartSets/Part_Stats/Part_Primary_Stat/ClassMod_Part_Stat_Primary_ActionSkillDamage.ClassMod_Part_Stat_Primary_ActionSkillDamage",
+      "/Game/Gear/ClassMods/_Design/PartSets/Part_Stats/Part_Secondary_Stat/Parts/ClassMod_Part_Stat_Secondary_ActionSkillDamage.ClassMod_Part_Stat_Secondary_ActionSkillDamage"
     ]
   },
   "BPInvPart_Tediore_Pistol_C": {
@@ -10215,7 +10217,9 @@
       "/Game/PlayerCharacters/Beastmaster/_DLC/Ixora/ActionSkill/Defs/ItemPool_Beastmaster_Mod5.ItemPool_Beastmaster_Mod5",
       "/Game/PlayerCharacters/Beastmaster/_DLC/Ixora/Pet/Loader/_Design/Weapons/ItemPool_PetLoader_BUL.ItemPool_PetLoader_BUL",
       "/Game/PlayerCharacters/Beastmaster/_DLC/Ixora/Pet/Loader/_Design/Weapons/ItemPool_PetLoader_ION.ItemPool_PetLoader_ION",
-      "/Game/PlayerCharacters/Beastmaster/_DLC/Ixora/Pet/Loader/_Design/Weapons/ItemPool_PetLoader_WAR.ItemPool_PetLoader_WAR"
+      "/Game/PlayerCharacters/Beastmaster/_DLC/Ixora/Pet/Loader/_Design/Weapons/ItemPool_PetLoader_WAR.ItemPool_PetLoader_WAR",
+      "/Game/PatchDLC/Geranium/Missions/Plot/Bathhouse/ItemPool_Bathhouse_MissionReward.ItemPool_Bathhouse_MissionReward",
+      "/Game/PatchDLC/Geranium/Missions/Plot/Forest/ItemPool_Forest_MissionReward.ItemPool_Forest_MissionReward"
     ]
   },
   "OakDownloadableContentLicenseData": {
