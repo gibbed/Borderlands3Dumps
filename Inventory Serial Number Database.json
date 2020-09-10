@@ -1500,7 +1500,25 @@
       "/Game/PatchDLC/Ixora/PlayerCharacters/_Customizations/PlayerSkins/Skin51/CustomSkin_Beastmaster_51.InvData_CustomSkin_Beastmaster_51",
       "/Game/PatchDLC/Ixora/PlayerCharacters/_Customizations/PlayerSkins/Skin51/CustomSkin_Gunner_51.InvData_CustomSkin_Gunner_51",
       "/Game/PatchDLC/Ixora/PlayerCharacters/_Customizations/PlayerSkins/Skin51/CustomSkin_Operative_51.InvData_CustomSkin_Operative_51",
-      "/Game/PatchDLC/Ixora/PlayerCharacters/_Customizations/PlayerSkins/Skin51/CustomSkin_Siren_51.InvData_CustomSkin_Siren_51"
+      "/Game/PatchDLC/Ixora/PlayerCharacters/_Customizations/PlayerSkins/Skin51/CustomSkin_Siren_51.InvData_CustomSkin_Siren_51",
+      "/Game/PatchDLC/Ixora/Customizations/ECHOTheme/ECHOTheme_50.InvData_ECHOTheme_50",
+      "/Game/PatchDLC/Ixora/Customizations/ECHOTheme/ECHOTheme_52.InvData_ECHOTheme_52",
+      "/Game/PatchDLC/Ixora/Customizations/ECHOTheme/ECHOTheme_57a.InvData_ECHOTheme_57a",
+      "/Game/PatchDLC/Ixora/Customizations/ECHOTheme/ECHOTheme_58.InvData_ECHOTheme_58",
+      "/Game/PatchDLC/Alisma/PlayerCharacters/_Customizations/Beastmaster/Skins/CustomSkin_Beastmaster_63.InvData_CustomSkin_Beastmaster_63",
+      "/Game/PatchDLC/Alisma/PlayerCharacters/_Customizations/Gunner/Skins/CustomSkin_Gunner_63.InvData_CustomSkin_Gunner_63",
+      "/Game/PatchDLC/Alisma/PlayerCharacters/_Customizations/Operative/Skins/CustomSkin_Operative_63.InvData_CustomSkin_Operative_63",
+      "/Game/PatchDLC/Alisma/PlayerCharacters/_Customizations/SirenBrawler/Skins/CustomSkin_Siren_63.InvData_CustomSkin_Siren_63",
+      "/Game/PatchDLC/Ixora/Gear/Weapons/WeaponTrinkets/_Design/WeaponTrinket_GearUp.InvData_WeaponTrinket_GearUp",
+      "/Game/PatchDLC/Ixora/PlayerCharacters/_Customizations/PlayerSkins/Skin62/CustomSkin_Beastmaster_62.InvData_CustomSkin_Beastmaster_62",
+      "/Game/PatchDLC/Ixora/PlayerCharacters/_Customizations/PlayerSkins/Skin62/CustomSkin_Gunner_62.InvData_CustomSkin_Gunner_62",
+      "/Game/PatchDLC/Ixora/PlayerCharacters/_Customizations/PlayerSkins/Skin62/CustomSkin_Operative_62.InvData_CustomSkin_Operative_62",
+      "/Game/PatchDLC/Ixora/PlayerCharacters/_Customizations/PlayerSkins/Skin62/CustomSkin_Siren_62.InvData_CustomSkin_Siren_62",
+      "/Game/PatchDLC/Ixora/PlayerCharacters/Operative/Heads/DA_OPHead39.InvData_DA_OPHead39",
+      "/Game/PatchDLC/Alisma/Gear/WeaponTrinkets/_Shared/Trinket_League_BloodyHarvest_2020.InvData_Trinket_League_BloodyHarvest_2020",
+      "/Game/PatchDLC/Alisma/PlayerCharacters/_Customizations/EchoDevice/ECHOTheme_79.InvData_ECHOTheme_79",
+      "/Game/PatchDLC/Ixora/BodyMeshCustomization/CustomBody_Operative_X.InvData_CustomBody_Operative_X",
+      "/Game/PatchDLC/BloodyHarvest/Gear/Weapons/WeaponSkins/WeaponSkin_BloodyHarvest_02.InvData_WeaponSkin_BloodyHarvest_02"
     ]
   },
   "InventoryBalanceData": {
@@ -3993,7 +4011,42 @@
       "/Game/PatchDLC/Ixora/Gear/ClassMods/_Design/BSM/L01/InvBalD_CM_Ixora_BSM_L01.InvBalD_CM_Ixora_BSM_L01",
       "/Game/PatchDLC/Ixora/Gear/ClassMods/_Design/GUN/L01/InvBalD_CM_Ixora_GUN_L01.InvBalD_CM_Ixora_GUN_L01",
       "/Game/PatchDLC/Ixora/Gear/ClassMods/_Design/OPE/L01/InvBalD_CM_Ixora_OPE_L01.InvBalD_CM_Ixora_OPE_L01",
-      "/Game/PatchDLC/Ixora/Gear/ClassMods/_Design/SRN/L01/InvBalD_CM_Ixora_SRN_L01.InvBalD_CM_Ixora_SRN_L01"
+      "/Game/PatchDLC/Ixora/Gear/ClassMods/_Design/SRN/L01/InvBalD_CM_Ixora_SRN_L01.InvBalD_CM_Ixora_SRN_L01",
+      "/Game/PatchDLC/Ixora/Customizations/ECHOTheme/ECHOTheme_50.InvBal_ECHOTheme_50",
+      "/Game/PatchDLC/Ixora/Customizations/ECHOTheme/ECHOTheme_52.InvBal_ECHOTheme_52",
+      "/Game/PatchDLC/Ixora/Customizations/ECHOTheme/ECHOTheme_57a.InvBal_ECHOTheme_57a",
+      "/Game/PatchDLC/Ixora/Customizations/ECHOTheme/ECHOTheme_58.InvBal_ECHOTheme_58",
+      "/Game/PatchDLC/Ixora/Gear/ClassMods/_Design/GUN/PartSets/InvBalD_CM_Ixora_GUN_01_Common.InvBalD_CM_Ixora_GUN_01_Common",
+      "/Game/PatchDLC/Ixora/Gear/ClassMods/_Design/GUN/PartSets/InvBalD_CM_Ixora_GUN_02_Uncommon.InvBalD_CM_Ixora_GUN_02_Uncommon",
+      "/Game/PatchDLC/Ixora/Gear/ClassMods/_Design/GUN/PartSets/InvBalD_CM_Ixora_GUN_03_Rare.InvBalD_CM_Ixora_GUN_03_Rare",
+      "/Game/PatchDLC/Ixora/Gear/ClassMods/_Design/GUN/PartSets/InvBalD_CM_Ixora_GUN_04_VeryRare.InvBalD_CM_Ixora_GUN_04_VeryRare",
+      "/Game/PatchDLC/Ixora/Gear/ClassMods/_Design/OPE/PartSets/InvBalD_CM_Ixora_OPE_01_Common.InvBalD_CM_Ixora_OPE_01_Common",
+      "/Game/PatchDLC/Ixora/Gear/ClassMods/_Design/OPE/PartSets/InvBalD_CM_Ixora_OPE_02_Uncommon.InvBalD_CM_Ixora_OPE_02_Uncommon",
+      "/Game/PatchDLC/Ixora/Gear/ClassMods/_Design/OPE/PartSets/InvBalD_CM_Ixora_OPE_03_Rare.InvBalD_CM_Ixora_OPE_03_Rare",
+      "/Game/PatchDLC/Ixora/Gear/ClassMods/_Design/OPE/PartSets/InvBalD_CM_Ixora_OPE_04_VeryRare.InvBalD_CM_Ixora_OPE_04_VeryRare",
+      "/Game/PatchDLC/Ixora/Gear/ClassMods/_Design/SRN/PartSets/InvBalD_CM_Ixora_SIR_01_Common.InvBalD_CM_Ixora_SIR_01_Common",
+      "/Game/PatchDLC/Ixora/Gear/ClassMods/_Design/SRN/PartSets/InvBalD_CM_Ixora_SIR_02_Uncommon.InvBalD_CM_Ixora_SIR_02_Uncommon",
+      "/Game/PatchDLC/Ixora/Gear/ClassMods/_Design/SRN/PartSets/InvBalD_CM_Ixora_SIR_03_Rare.InvBalD_CM_Ixora_SIR_03_Rare",
+      "/Game/PatchDLC/Ixora/Gear/ClassMods/_Design/SRN/PartSets/InvBalD_CM_Ixora_SIR_04_VeryRare.InvBalD_CM_Ixora_SIR_04_VeryRare",
+      "/Game/PatchDLC/Ixora/Gear/ClassMods/_Design/BSM/PartSets/InvBalD_CM_Ixora_BSM_01_Common.InvBalD_CM_Ixora_BSM_01_Common",
+      "/Game/PatchDLC/Ixora/Gear/ClassMods/_Design/BSM/PartSets/InvBalD_CM_Ixora_BSM_02_Uncommon.InvBalD_CM_Ixora_BSM_02_Uncommon",
+      "/Game/PatchDLC/Ixora/Gear/ClassMods/_Design/BSM/PartSets/InvBalD_CM_Ixora_BSM_03_Rare.InvBalD_CM_Ixora_BSM_03_Rare",
+      "/Game/PatchDLC/Ixora/Gear/ClassMods/_Design/BSM/PartSets/InvBalD_CM_Ixora_BSM_04_VeryRare.InvBalD_CM_Ixora_BSM_04_VeryRare",
+      "/Game/PatchDLC/Ixora/Gear/ClassMods/_Design/OPE/L02/InvBalD_CM_Ixora_OPE_L02.InvBalD_CM_Ixora_OPE_L02",
+      "/Game/PatchDLC/Alisma/PlayerCharacters/_Customizations/Beastmaster/Skins/CustomSkin_Beastmaster_63.InvBal_CustomSkin_Beastmaster_63",
+      "/Game/PatchDLC/Alisma/PlayerCharacters/_Customizations/Gunner/Skins/CustomSkin_Gunner_63.InvBal_CustomSkin_Gunner_63",
+      "/Game/PatchDLC/Alisma/PlayerCharacters/_Customizations/Operative/Skins/CustomSkin_Operative_63.InvBal_CustomSkin_Operative_63",
+      "/Game/PatchDLC/Alisma/PlayerCharacters/_Customizations/SirenBrawler/Skins/CustomSkin_Siren_63.InvBal_CustomSkin_Siren_63",
+      "/Game/PatchDLC/Ixora/Gear/Weapons/WeaponTrinkets/_Design/WeaponTrinket_GearUp.InvBal_WeaponTrinket_GearUp",
+      "/Game/PatchDLC/Ixora/PlayerCharacters/_Customizations/PlayerSkins/Skin62/CustomSkin_Beastmaster_62.InvBal_CustomSkin_Beastmaster_62",
+      "/Game/PatchDLC/Ixora/PlayerCharacters/_Customizations/PlayerSkins/Skin62/CustomSkin_Gunner_62.InvBal_CustomSkin_Gunner_62",
+      "/Game/PatchDLC/Ixora/PlayerCharacters/_Customizations/PlayerSkins/Skin62/CustomSkin_Operative_62.InvBal_CustomSkin_Operative_62",
+      "/Game/PatchDLC/Ixora/PlayerCharacters/_Customizations/PlayerSkins/Skin62/CustomSkin_Siren_62.InvBal_CustomSkin_Siren_62",
+      "/Game/PatchDLC/Ixora/PlayerCharacters/Operative/Heads/DA_OPHead39.InvBal_DA_OPHead39",
+      "/Game/PatchDLC/Alisma/Gear/WeaponTrinkets/_Shared/Trinket_League_BloodyHarvest_2020.InvBal_Trinket_League_BloodyHarvest_2020",
+      "/Game/PatchDLC/Alisma/PlayerCharacters/_Customizations/EchoDevice/ECHOTheme_79.InvBal_ECHOTheme_79",
+      "/Game/PatchDLC/Ixora/BodyMeshCustomization/CustomBody_Operative_X.InvBal_CustomBody_Operative_X",
+      "/Game/PatchDLC/BloodyHarvest/Gear/Weapons/WeaponSkins/WeaponSkin_BloodyHarvest_02.InvBal_WeaponSkin_BloodyHarvest_02"
     ]
   },
   "BPVehiclePart_C": {
@@ -4641,7 +4694,8 @@
       "/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Unique/DNA/Parts/Part_SM_MAL_Material_DNA.Part_SM_MAL_Material_DNA",
       "/Game/PatchDLC/Geranium/Gear/Weapon/_Unique/Flipper/Parts/Part_SM_MAL_Barrel_Flipper.Part_SM_MAL_Barrel_Flipper",
       "/Game/PatchDLC/Geranium/Gear/Weapon/_Unique/Flipper/Parts/Part_SM_MAL_Material_Flipper.Part_SM_MAL_Material_Flipper",
-      "/Game/PatchDLC/Ixora/Gear/Weapons/_Unique/PlasmaCoil/Parts/Part_SM_MAL_Barrel_PlasmaCoil.Part_SM_MAL_Barrel_PlasmaCoil"
+      "/Game/PatchDLC/Ixora/Gear/Weapons/_Unique/PlasmaCoil/Parts/Part_SM_MAL_Barrel_PlasmaCoil.Part_SM_MAL_Barrel_PlasmaCoil",
+      "/Game/PatchDLC/Ixora/Gear/Weapons/_Unique/PlasmaCoil/Parts/Part_SM_MAL_Material_PlasmaCoil.Part_SM_MAL_Material_PlasmaCoil"
     ]
   },
   "BPInvPart_MAL_SR_C": {
@@ -4727,7 +4781,8 @@
       "/Hibiscus/Enemies/Zealot/Pilfer/_Design/Weapon/Part_MAL_SR_Barrel_ETech_Pilfer.Part_MAL_SR_Barrel_ETech_Pilfer",
       "/Game/PatchDLC/Geranium/Gear/Weapon/_Unique/ImaginaryNumber/Parts/Part_MAL_SR_Material_ImaginaryNumber.Part_MAL_SR_Material_ImaginaryNumber",
       "/Game/PatchDLC/Geranium/Gear/Weapon/_Unique/ImaginaryNumber/Parts/Part_MAL_SR_Barrel_ImaginaryNumber.Part_MAL_SR_Barrel_ImaginaryNumber",
-      "/Game/PatchDLC/Ixora/Gear/Weapons/_Unique/BinaryOperator/Parts/Part_MAL_SR_Barrel_BinaryOperator.Part_MAL_SR_Barrel_BinaryOperator"
+      "/Game/PatchDLC/Ixora/Gear/Weapons/_Unique/BinaryOperator/Parts/Part_MAL_SR_Barrel_BinaryOperator.Part_MAL_SR_Barrel_BinaryOperator",
+      "/Game/PatchDLC/Ixora/Gear/Weapons/_Unique/BinaryOperator/Parts/Part_MAL_SR_Material_BinaryOperator.Part_MAL_SR_Material_BinaryOperator"
     ]
   },
   "BPInvPart_HW_COV_C": {
@@ -5015,7 +5070,8 @@
       "/Game/PatchDLC/Geranium/Gear/Weapon/_Unique/Sheriff/Parts/Part_PS_JAK_Material_Sheriff.Part_PS_JAK_Material_Sheriff",
       "/Game/PatchDLC/Geranium/Gear/Weapon/_Unique/Peashooter/Parts/Part_PS_JAK_Barrel_Peashooter.Part_PS_JAK_Barrel_Peashooter",
       "/Game/PatchDLC/Geranium/Gear/Weapon/_Unique/Peashooter/Parts/Part_PS_JAK_Material_Peashooter.Part_PS_JAK_Material_Peashooter",
-      "/Game/PatchDLC/Ixora/Gear/Weapons/_Unique/Trickshot/Parts/Part_PS_JAK_Barrel_Trickshot.Part_PS_JAK_Barrel_Trickshot"
+      "/Game/PatchDLC/Ixora/Gear/Weapons/_Unique/Trickshot/Parts/Part_PS_JAK_Barrel_Trickshot.Part_PS_JAK_Barrel_Trickshot",
+      "/Game/PatchDLC/Ixora/Gear/Weapons/_Unique/Trickshot/Parts/Part_PS_JAK_Material_Trickshot.Part_PS_JAK_Material_Trickshot"
     ]
   },
   "BPInvPart_ATL_AR_C": {
@@ -5452,7 +5508,8 @@
       "/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Unique/Plague/Parts/Part_HW_TOR_Barrel_ETech_Plague.Part_HW_TOR_Barrel_ETech_Plague",
       "/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Unique/Plague/Parts/Part_HW_TOR_Material_Plague.Part_HW_TOR_Material_Plague",
       "/Game/PatchDLC/Geranium/Gear/Weapon/_Unique/Satisfaction/Parts/Part_HW_TOR_Barrel_Satisfaction.Part_HW_TOR_Barrel_Satisfaction",
-      "/Game/PatchDLC/Geranium/Gear/Weapon/_Unique/Satisfaction/Parts/Part_HW_TOR_Material_Satisfaction.Part_HW_TOR_Material_Satisfaction"
+      "/Game/PatchDLC/Geranium/Gear/Weapon/_Unique/Satisfaction/Parts/Part_HW_TOR_Material_Satisfaction.Part_HW_TOR_Material_Satisfaction",
+      "/Game/PatchDLC/Ixora/Gear/Weapons/_Unique/IceAge/Parts/Part_HW_TOR_Material_IceAge.Part_HW_TOR_Material_IceAge"
     ]
   },
   "BPInvPart_HW_VLA_C": {
@@ -5567,7 +5624,8 @@
       "/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Unique/DoubleTap/Parts/Part_PS_ATL_Barrel_DoubleTap.Part_PS_ATL_Barrel_DoubleTap",
       "/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Unique/DoubleTap/Parts/Part_PS_ATL_Material_DoubleTap.Part_PS_ATL_Material_DoubleTap",
       "/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Unique/DoubleTap/Parts/Part_PS_ATL_Launcher_DoubleTap.Part_PS_ATL_Launcher_DoubleTap",
-      "/Game/PatchDLC/Ixora/Gear/Weapons/_Unique/SpiritOfMaya/Parts/Part_PS_ATL_Barrel_SpiritOfMaya.Part_PS_ATL_Barrel_SpiritOfMaya"
+      "/Game/PatchDLC/Ixora/Gear/Weapons/_Unique/SpiritOfMaya/Parts/Part_PS_ATL_Barrel_SpiritOfMaya.Part_PS_ATL_Barrel_SpiritOfMaya",
+      "/Game/PatchDLC/Ixora/Gear/Weapons/_Unique/SpiritOfMaya/Parts/Part_PS_ATL_Material_SpiritOfMaya.Part_PS_ATL_Material_SpiritOfMaya"
     ]
   },
   "BPInvPartData_EridianFabricator_C": {
@@ -5740,7 +5798,8 @@
       "/Game/PatchDLC/Geranium/Gear/Weapon/_Unique/Miscreant/Parts/Part_PS_VLA_Barrel_Miscreant.Part_PS_VLA_Barrel_Miscreant",
       "/Game/PatchDLC/Geranium/Gear/Weapon/_Unique/Miscreant/Parts/Part_PS_VLA_Material_Miscreant.Part_PS_VLA_Material_Miscreant",
       "/Game/PatchDLC/Ixora/Gear/Weapons/_Unique/Firefly/Parts/Part_PS_VLA_Barrel_Firefly.Part_PS_VLA_Barrel_Firefly",
-      "/Game/PatchDLC/Ixora/Gear/Weapons/_Unique/Firefly/Parts/Part_PS_VLA_Mag_Firefly.Part_PS_VLA_Mag_Firefly"
+      "/Game/PatchDLC/Ixora/Gear/Weapons/_Unique/Firefly/Parts/Part_PS_VLA_Mag_Firefly.Part_PS_VLA_Mag_Firefly",
+      "/Game/PatchDLC/Ixora/Gear/Weapons/_Unique/Firefly/Parts/Part_PS_VLA_Material_Firefly.Part_PS_VLA_Material_Firefly"
     ]
   },
   "BPInvPart_SG_JAK_C": {
@@ -5989,7 +6048,8 @@
       "/Game/PatchDLC/Geranium/Gear/Weapon/_Unique/Shoveler/Parts/Part_SG_Torgue_Material_Shoveler.Part_SG_Torgue_Material_Shoveler",
       "/Game/PatchDLC/Geranium/Gear/Weapon/_Unique/Shoveler/Parts/Part_SG_Torgue_Barrel_Shoveler.Part_SG_Torgue_Barrel_Shoveler",
       "/Game/PatchDLC/Ixora/Gear/Weapons/_Unique/CriticalThug/Parts/Part_SG_Torgue_Body_CriticalThug.Part_SG_Torgue_Body_CriticalThug",
-      "/Game/PatchDLC/Ixora/Gear/Weapons/_Unique/CriticalThug/Parts/Part_SG_Torgue_CriticalThug.Part_SG_Torgue_CriticalThug"
+      "/Game/PatchDLC/Ixora/Gear/Weapons/_Unique/CriticalThug/Parts/Part_SG_Torgue_CriticalThug.Part_SG_Torgue_CriticalThug",
+      "/Game/PatchDLC/Ixora/Gear/Weapons/_Unique/CriticalThug/Parts/Part_SG_Torgue_Material_CriticalThug.Part_SG_Torgue_Material_CriticalThug"
     ]
   },
   "BPInvPart_SM_TED_C": {
@@ -6067,7 +6127,8 @@
       "/Game/PatchDLC/Alisma/Gear/Weapon/_Unique/PAT_Mk3/Parts/Part_SM_TED_Barrel_PatMk3_B.Part_SM_TED_Barrel_PatMk3_B",
       "/Game/PatchDLC/Alisma/Gear/Weapon/_Unique/PAT_Mk3/Parts/Part_SM_TED_Barrel_PatMk3_Epic.Part_SM_TED_Barrel_PatMk3_Epic",
       "/Game/PatchDLC/Alisma/Gear/Weapon/_Unique/PAT_Mk3/Parts/Part_SM_TED_Barrel_PatMk3_Parent.Part_SM_TED_Barrel_PatMk3_Parent",
-      "/Game/PatchDLC/Ixora/Gear/Weapons/_Unique/DarkArmy/Parts/Part_SM_TED_Barrel_DarkArmy.Part_SM_TED_Barrel_DarkArmy"
+      "/Game/PatchDLC/Ixora/Gear/Weapons/_Unique/DarkArmy/Parts/Part_SM_TED_Barrel_DarkArmy.Part_SM_TED_Barrel_DarkArmy",
+      "/Game/PatchDLC/Ixora/Gear/Weapons/_Unique/DarkArmy/Parts/Part_SM_TED_Material_DarkArmy.Part_SM_TED_Material_DarkArmy"
     ]
   },
   "BPInvPart_SR_DAL_C": {
@@ -6397,7 +6458,8 @@
       "/Game/PatchDLC/Alisma/Gear/Weapon/_Unique/Septimator/Parts/Part_SR_VLA_Barrel_Septimator_Epic.Part_SR_VLA_Barrel_Septimator_Epic",
       "/Game/PatchDLC/Ixora/Gear/Weapons/_Unique/Boogeyman/Parts/Part_SR_VLA_Barrel_Boogeyman.Part_SR_VLA_Barrel_Boogeyman",
       "/Game/PatchDLC/Ixora/Gear/Weapons/_Unique/Boogeyman/Parts/Part_SR_VLA_Barrel_Mod_Boogeyman.Part_SR_VLA_Barrel_Mod_Boogeyman",
-      "/Game/PatchDLC/Ixora/Gear/Weapons/_Unique/Boogeyman/Parts/Part_SR_VLA_Underbarrel_Mod_Boogeyman.Part_SR_VLA_Underbarrel_Mod_Boogeyman"
+      "/Game/PatchDLC/Ixora/Gear/Weapons/_Unique/Boogeyman/Parts/Part_SR_VLA_Underbarrel_Mod_Boogeyman.Part_SR_VLA_Underbarrel_Mod_Boogeyman",
+      "/Game/PatchDLC/Ixora/Gear/Weapons/_Unique/Boogeyman/Parts/Part_SR_VLA_Material_Boogeyman.Part_SR_VLA_Material_Boogeyman"
     ]
   },
   "BPInvPart_GrenadeMod_C": {
@@ -7867,7 +7929,11 @@
       "/Game/PatchDLC/Ixora/Gear/ClassMods/_Design/OPE/Skills/CM_Part_Skill_OPE_DLCSkill_3.CM_Part_Skill_OPE_DLCSkill_3",
       "/Game/PatchDLC/Ixora/Gear/ClassMods/_Design/SRN/Skills/CM_Part_Skill_SRN_DLCSkill_10.CM_Part_Skill_SRN_DLCSkill_10",
       "/Game/PatchDLC/Ixora/Gear/ClassMods/_Design/SRN/Skills/CM_Part_Skill_SRN_DLCSkill_14.CM_Part_Skill_SRN_DLCSkill_14",
-      "/Game/PatchDLC/Ixora/Gear/ClassMods/_Design/SRN/Skills/CM_Part_Skill_SRN_DLCSkill_16.CM_Part_Skill_SRN_DLCSkill_16"
+      "/Game/PatchDLC/Ixora/Gear/ClassMods/_Design/SRN/Skills/CM_Part_Skill_SRN_DLCSkill_16.CM_Part_Skill_SRN_DLCSkill_16",
+      "/Game/PatchDLC/Ixora/Gear/ClassMods/_Design/GUN/PartSets/ClassMod_Part_Mod_GUN_Ixora_01.ClassMod_Part_Mod_GUN_Ixora_01",
+      "/Game/PatchDLC/Ixora/Gear/ClassMods/_Design/SRN/PartSets/ClassMod_Part_Mod_SIR_Ixora_01.ClassMod_Part_Mod_SIR_Ixora_01",
+      "/Game/PatchDLC/Ixora/Gear/ClassMods/_Design/BSM/PartSets/ClassMod_Part_Mod_BSM_Ixora_01.ClassMod_Part_Mod_BSM_Ixora_01",
+      "/Game/PatchDLC/Ixora/Gear/ClassMods/_Design/OPE/L02/Part_CM_Ixora_OPE_L02.Part_CM_Ixora_OPE_L02"
     ]
   },
   "BPInvPart_Tediore_Pistol_C": {
@@ -8158,7 +8224,8 @@
   },
   "BPInvPart_PS_COV_C": {
     "versions": [
-      {"version":2,"bits":6}
+      {"version":2,"bits":6},
+      {"version":59,"bits":7}
     ],
     "assets": [
       "/Game/Gear/Weapons/Pistols/ChildrenOfTheVault/_Shared/_Design/Parts/Accessory/Part_PS_COV_Accessory_01.Part_PS_COV_Accessory_01",
@@ -8223,7 +8290,8 @@
       "/Game/PatchDLC/Hibiscus/Gear/Weapon/_Unique/Hydrafrost/Parts/Part_PS_COV_Material_Hydrafrost.Part_PS_COV_Material_Hydrafrost",
       "/Game/PatchDLC/Geranium/Gear/Weapon/_Unique/Gargoyle/Parts/Part_PS_COV_Barrel_Gargoyle.Part_PS_COV_Barrel_Gargoyle",
       "/Game/PatchDLC/Geranium/Gear/Weapon/_Unique/Gargoyle/Parts/Part_PS_COV_Material_Gargoyle.Part_PS_COV_Material_Gargoyle",
-      "/Game/PatchDLC/Ixora/Gear/Weapons/_Unique/Tizzy/Parts/Part_PS_COV_Barrel_Tizzy.Part_PS_COV_Barrel_Tizzy"
+      "/Game/PatchDLC/Ixora/Gear/Weapons/_Unique/Tizzy/Parts/Part_PS_COV_Barrel_Tizzy.Part_PS_COV_Barrel_Tizzy",
+      "/Game/PatchDLC/Ixora/Gear/Weapons/_Unique/Tizzy/Parts/Part_PS_COV_Material_Tizzy.Part_PS_COV_Material_Tizzy"
     ]
   },
   "BPInvPart_PS_TOR_C": {
@@ -8387,7 +8455,8 @@
       "/Game/PatchDLC/Alisma/Gear/Weapon/_Unique/LovableRogue/Parts/Part_AR_TOR_Barrel_LovableRogue_Ali.Part_AR_TOR_Barrel_LovableRogue_Ali",
       "/Game/PatchDLC/Alisma/Gear/Weapon/_Unique/LovableRogue/Parts/Part_AR_TOR_Material_LovableRogue_Ali.Part_AR_TOR_Material_LovableRogue_Ali",
       "/Game/PatchDLC/Alisma/Gear/Weapon/_Unique/LovableRogue/Parts/Part_AR_TOR_Barrel_LovableRogue_Epic.Part_AR_TOR_Barrel_LovableRogue_Epic",
-      "/Game/PatchDLC/Ixora/Gear/Weapons/_Unique/HotfootTeddy/Parts/Part_AR_TOR_Barrel_Hotfoot.Part_AR_TOR_Barrel_Hotfoot"
+      "/Game/PatchDLC/Ixora/Gear/Weapons/_Unique/HotfootTeddy/Parts/Part_AR_TOR_Barrel_Hotfoot.Part_AR_TOR_Barrel_Hotfoot",
+      "/Game/PatchDLC/Ixora/Gear/Weapons/_Unique/HotfootTeddy/Parts/Part_AR_TOR_Material_Hotfoot.Part_AR_TOR_Material_Hotfoot"
     ]
   },
   "InventoryCustomizationPartData": {
@@ -8542,7 +8611,10 @@
       "/Game/PatchDLC/Steam/Gear/WeaponTrinkets/WeaponTrinket_SteamPunk.WeaponTrinket_SteamPunk",
       "/Game/PatchDLC/Geranium/Customizations/WeaponTrinket/WeaponTrinket_DLC3_2.WeaponTrinket_DLC3_2",
       "/Game/PatchDLC/Alisma/Gear/WeaponTrinkets/Trinket_DLC4_Trinket_01.Trinket_DLC4_Trinket_01",
-      "/Game/PatchDLC/Alisma/Gear/WeaponTrinkets/Trinket_DLC4_Trinket_02.Trinket_DLC4_Trinket_02"
+      "/Game/PatchDLC/Alisma/Gear/WeaponTrinkets/Trinket_DLC4_Trinket_02.Trinket_DLC4_Trinket_02",
+      "/Game/PatchDLC/Ixora/Gear/Weapons/WeaponTrinkets/_Design/WeaponTrinket_GearUp.WeaponTrinket_GearUp",
+      "/Game/PatchDLC/Alisma/Gear/WeaponTrinkets/_Shared/Trinket_League_BloodyHarvest_2020.Trinket_League_BloodyHarvest_2020",
+      "/Game/PatchDLC/BloodyHarvest/Gear/Weapons/WeaponSkins/WeaponSkin_BloodyHarvest_02.WeaponSkin_BloodyHarvest_02"
     ]
   },
   "BPInvPart_Customization_Head_C": {
@@ -10834,7 +10906,40 @@
       "/Game/PatchDLC/Raid1/GameData/Loot/ItemPools/ItemPool_Vermilingua.ItemPool_Vermilingua",
       "/Game/PatchDLC/Raid1/GameData/Loot/ItemPools/ItemPool_Vice.ItemPool_Vice",
       "/Game/GameData/Loot/ItemPools/VendingMachines/DA_ItemPool_VendingMachine_CrazyEarl_MissionRewards.DA_ItemPool_VendingMachine_CrazyEarl_MissionRewards",
-      "/Game/PatchDLC/Ixora/GameData/Loot/ItemPools/ItemPool_Ixora_ClassMods_Legendary.ItemPool_Ixora_ClassMods_Legendary"
+      "/Game/PatchDLC/Ixora/GameData/Loot/ItemPools/ItemPool_Ixora_ClassMods_Legendary.ItemPool_Ixora_ClassMods_Legendary",
+      "/Game/GameData/Loot/ItemPools/Unique/ItemPool_BroodMotherMain.ItemPool_BroodMotherMain",
+      "/Game/PatchDLC/Alisma/GameData/Loot/Customization_Pool/ItemPool_EchoTheme_Crew_Reward.ItemPool_EchoTheme_Crew_Reward",
+      "/Game/PatchDLC/Ixora/Gear/ClassMods/_Design/GUN/Pool_ClassMods_Ixora_GUN.Pool_ClassMods_Ixora_GUN",
+      "/Game/PatchDLC/Ixora/Gear/ClassMods/_Design/GUN/Pool_ClassMods_Ixora_GUN_01_Common.Pool_ClassMods_Ixora_GUN_01_Common",
+      "/Game/PatchDLC/Ixora/Gear/ClassMods/_Design/GUN/Pool_ClassMods_Ixora_GUN_02_Uncommon.Pool_ClassMods_Ixora_GUN_02_Uncommon",
+      "/Game/PatchDLC/Ixora/Gear/ClassMods/_Design/GUN/Pool_ClassMods_Ixora_GUN_03_Rare.Pool_ClassMods_Ixora_GUN_03_Rare",
+      "/Game/PatchDLC/Ixora/Gear/ClassMods/_Design/GUN/Pool_ClassMods_Ixora_GUN_04_VeryRare.Pool_ClassMods_Ixora_GUN_04_VeryRare",
+      "/Game/PatchDLC/Ixora/Gear/ClassMods/_Design/GUN/Pool_ClassMods_Ixora_GUN_05_Legendary.Pool_ClassMods_Ixora_GUN_05_Legendary",
+      "/Game/PatchDLC/Ixora/Gear/ClassMods/_Design/OPE/Pool_ClassMods_Ixora_OPE.Pool_ClassMods_Ixora_OPE",
+      "/Game/PatchDLC/Ixora/Gear/ClassMods/_Design/OPE/Pool_ClassMods_Ixora_OPE_01_Common.Pool_ClassMods_Ixora_OPE_01_Common",
+      "/Game/PatchDLC/Ixora/Gear/ClassMods/_Design/OPE/Pool_ClassMods_Ixora_OPE_02_Uncommon.Pool_ClassMods_Ixora_OPE_02_Uncommon",
+      "/Game/PatchDLC/Ixora/Gear/ClassMods/_Design/OPE/Pool_ClassMods_Ixora_OPE_03_Rare.Pool_ClassMods_Ixora_OPE_03_Rare",
+      "/Game/PatchDLC/Ixora/Gear/ClassMods/_Design/OPE/Pool_ClassMods_Ixora_OPE_04_VeryRare.Pool_ClassMods_Ixora_OPE_04_VeryRare",
+      "/Game/PatchDLC/Ixora/Gear/ClassMods/_Design/OPE/Pool_ClassMods_Ixora_OPE_05_Legendary.Pool_ClassMods_Ixora_OPE_05_Legendary",
+      "/Game/PatchDLC/Ixora/Gear/ClassMods/_Design/SRN/Pool_ClassMods_Ixora_SIR.Pool_ClassMods_Ixora_SIR",
+      "/Game/PatchDLC/Ixora/Gear/ClassMods/_Design/SRN/Pool_ClassMods_Ixora_SIR_01_Common.Pool_ClassMods_Ixora_SIR_01_Common",
+      "/Game/PatchDLC/Ixora/Gear/ClassMods/_Design/SRN/Pool_ClassMods_Ixora_SIR_02_Uncommon.Pool_ClassMods_Ixora_SIR_02_Uncommon",
+      "/Game/PatchDLC/Ixora/Gear/ClassMods/_Design/SRN/Pool_ClassMods_Ixora_SIR_03_Rare.Pool_ClassMods_Ixora_SIR_03_Rare",
+      "/Game/PatchDLC/Ixora/Gear/ClassMods/_Design/SRN/Pool_ClassMods_Ixora_SIR_04_VeryRare.Pool_ClassMods_Ixora_SIR_04_VeryRare",
+      "/Game/PatchDLC/Ixora/Gear/ClassMods/_Design/SRN/Pool_ClassMods_Ixora_SIR_05_Legendary.Pool_ClassMods_Ixora_SIR_05_Legendary",
+      "/Game/PatchDLC/Ixora/Gear/ClassMods/_Design/BSM/Pool_ClassMods_Ixora_BSM.Pool_ClassMods_Ixora_BSM",
+      "/Game/PatchDLC/Ixora/Gear/ClassMods/_Design/BSM/Pool_ClassMods_Ixora_BSM_01_Common.Pool_ClassMods_Ixora_BSM_01_Common",
+      "/Game/PatchDLC/Ixora/Gear/ClassMods/_Design/BSM/Pool_ClassMods_Ixora_BSM_02_Uncommon.Pool_ClassMods_Ixora_BSM_02_Uncommon",
+      "/Game/PatchDLC/Ixora/Gear/ClassMods/_Design/BSM/Pool_ClassMods_Ixora_BSM_03_Rare.Pool_ClassMods_Ixora_BSM_03_Rare",
+      "/Game/PatchDLC/Ixora/Gear/ClassMods/_Design/BSM/Pool_ClassMods_Ixora_BSM_04_VeryRare.Pool_ClassMods_Ixora_BSM_04_VeryRare",
+      "/Game/PatchDLC/Ixora/Gear/ClassMods/_Design/BSM/Pool_ClassMods_Ixora_BSM_05_Legendary.Pool_ClassMods_Ixora_BSM_05_Legendary",
+      "/Alisma/Enemies/DarkVH/DarkLilith/_Design/Character/ItemPool_DarkLilith_FireOrbs.ItemPool_DarkLilith_FireOrbs",
+      "/Game/PatchDLC/Alisma/GameData/Loot/Customization_Pool/ItemPool_Customizations_RoomDeco_Psychodin.ItemPool_Customizations_RoomDeco_Psychodin",
+      "/Game/PatchDLC/Alisma/GameData/Loot/Legendary/ItemPool_Alisma_Guns_Purple_World_Drop.ItemPool_Alisma_Guns_Purple_World_Drop",
+      "/Game/PatchDLC/Alisma/GameData/Loot/Legendary/ItemPool_Alisma_Legendary_Dedicate_Benedict.ItemPool_Alisma_Legendary_Dedicate_Benedict",
+      "/Game/PatchDLC/Alisma/GameData/Loot/Legendary/ItemPool_Alisma_Legendary_Dedicate_DarkLilith.ItemPool_Alisma_Legendary_Dedicate_DarkLilith",
+      "/Game/PatchDLC/Alisma/GameData/Loot/Legendary/ItemPool_Alisma_Legendary_Dedicate_Psychodin.ItemPool_Alisma_Legendary_Dedicate_Psychodin",
+      "/Game/PatchDLC/Alisma/GameData/Loot/Legendary/ItemPool_Alisma_Legendary_Dedicate_Train.ItemPool_Alisma_Legendary_Dedicate_Train"
     ]
   },
   "OakDownloadableContentLicenseData": {
