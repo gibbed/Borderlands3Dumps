@@ -4695,7 +4695,9 @@
       "/Game/PatchDLC/Geranium/Gear/Weapon/_Unique/Flipper/Parts/Part_SM_MAL_Barrel_Flipper.Part_SM_MAL_Barrel_Flipper",
       "/Game/PatchDLC/Geranium/Gear/Weapon/_Unique/Flipper/Parts/Part_SM_MAL_Material_Flipper.Part_SM_MAL_Material_Flipper",
       "/Game/PatchDLC/Ixora/Gear/Weapons/_Unique/PlasmaCoil/Parts/Part_SM_MAL_Barrel_PlasmaCoil.Part_SM_MAL_Barrel_PlasmaCoil",
-      "/Game/PatchDLC/Ixora/Gear/Weapons/_Unique/PlasmaCoil/Parts/Part_SM_MAL_Material_PlasmaCoil.Part_SM_MAL_Material_PlasmaCoil"
+      "/Game/PatchDLC/Ixora/Gear/Weapons/_Unique/PlasmaCoil/Parts/Part_SM_MAL_Material_PlasmaCoil.Part_SM_MAL_Material_PlasmaCoil",
+      "/Game/PatchDLC/Ixora/Gear/Weapons/_Unique/PlasmaCoil/Parts/Part_SM_MAL_Mag_01_PlasmaCoil.Part_SM_MAL_Mag_01_PlasmaCoil",
+      "/Game/PatchDLC/Ixora/Gear/Weapons/_Unique/PlasmaCoil/Parts/Part_SM_MAL_Mag_03_PlasmaCoil.Part_SM_MAL_Mag_03_PlasmaCoil"
     ]
   },
   "BPInvPart_MAL_SR_C": {
@@ -5071,7 +5073,9 @@
       "/Game/PatchDLC/Geranium/Gear/Weapon/_Unique/Peashooter/Parts/Part_PS_JAK_Barrel_Peashooter.Part_PS_JAK_Barrel_Peashooter",
       "/Game/PatchDLC/Geranium/Gear/Weapon/_Unique/Peashooter/Parts/Part_PS_JAK_Material_Peashooter.Part_PS_JAK_Material_Peashooter",
       "/Game/PatchDLC/Ixora/Gear/Weapons/_Unique/Trickshot/Parts/Part_PS_JAK_Barrel_Trickshot.Part_PS_JAK_Barrel_Trickshot",
-      "/Game/PatchDLC/Ixora/Gear/Weapons/_Unique/Trickshot/Parts/Part_PS_JAK_Material_Trickshot.Part_PS_JAK_Material_Trickshot"
+      "/Game/PatchDLC/Ixora/Gear/Weapons/_Unique/Trickshot/Parts/Part_PS_JAK_Material_Trickshot.Part_PS_JAK_Material_Trickshot",
+      "/Game/PatchDLC/Ixora/Gear/Weapons/_Unique/Trickshot/Parts/Part_PS_JAK_Hammer_02_Trickshot.Part_PS_JAK_Hammer_02_Trickshot",
+      "/Game/PatchDLC/Ixora/Gear/Weapons/_Unique/Trickshot/Parts/Part_PS_JAK_Hammer_03_Trickshot.Part_PS_JAK_Hammer_03_Trickshot"
     ]
   },
   "BPInvPart_ATL_AR_C": {
@@ -5799,7 +5803,8 @@
       "/Game/PatchDLC/Geranium/Gear/Weapon/_Unique/Miscreant/Parts/Part_PS_VLA_Material_Miscreant.Part_PS_VLA_Material_Miscreant",
       "/Game/PatchDLC/Ixora/Gear/Weapons/_Unique/Firefly/Parts/Part_PS_VLA_Barrel_Firefly.Part_PS_VLA_Barrel_Firefly",
       "/Game/PatchDLC/Ixora/Gear/Weapons/_Unique/Firefly/Parts/Part_PS_VLA_Mag_Firefly.Part_PS_VLA_Mag_Firefly",
-      "/Game/PatchDLC/Ixora/Gear/Weapons/_Unique/Firefly/Parts/Part_PS_VLA_Material_Firefly.Part_PS_VLA_Material_Firefly"
+      "/Game/PatchDLC/Ixora/Gear/Weapons/_Unique/Firefly/Parts/Part_PS_VLA_Material_Firefly.Part_PS_VLA_Material_Firefly",
+      "/Game/PatchDLC/Ixora/Gear/Weapons/_Unique/Firefly/Parts/Part_PS_VLA_Rail_04_Firefly.Part_PS_VLA_Rail_04_Firefly"
     ]
   },
   "BPInvPart_SG_JAK_C": {
@@ -6049,7 +6054,8 @@
       "/Game/PatchDLC/Geranium/Gear/Weapon/_Unique/Shoveler/Parts/Part_SG_Torgue_Barrel_Shoveler.Part_SG_Torgue_Barrel_Shoveler",
       "/Game/PatchDLC/Ixora/Gear/Weapons/_Unique/CriticalThug/Parts/Part_SG_Torgue_Body_CriticalThug.Part_SG_Torgue_Body_CriticalThug",
       "/Game/PatchDLC/Ixora/Gear/Weapons/_Unique/CriticalThug/Parts/Part_SG_Torgue_CriticalThug.Part_SG_Torgue_CriticalThug",
-      "/Game/PatchDLC/Ixora/Gear/Weapons/_Unique/CriticalThug/Parts/Part_SG_Torgue_Material_CriticalThug.Part_SG_Torgue_Material_CriticalThug"
+      "/Game/PatchDLC/Ixora/Gear/Weapons/_Unique/CriticalThug/Parts/Part_SG_Torgue_Material_CriticalThug.Part_SG_Torgue_Material_CriticalThug",
+      "/Game/PatchDLC/Ixora/Gear/Weapons/_Unique/CriticalThug/Parts/Part_SG_Torgue_Grip_01_CriticalThug.Part_SG_Torgue_Grip_01_CriticalThug"
     ]
   },
   "BPInvPart_SM_TED_C": {
@@ -6128,7 +6134,10 @@
       "/Game/PatchDLC/Alisma/Gear/Weapon/_Unique/PAT_Mk3/Parts/Part_SM_TED_Barrel_PatMk3_Epic.Part_SM_TED_Barrel_PatMk3_Epic",
       "/Game/PatchDLC/Alisma/Gear/Weapon/_Unique/PAT_Mk3/Parts/Part_SM_TED_Barrel_PatMk3_Parent.Part_SM_TED_Barrel_PatMk3_Parent",
       "/Game/PatchDLC/Ixora/Gear/Weapons/_Unique/DarkArmy/Parts/Part_SM_TED_Barrel_DarkArmy.Part_SM_TED_Barrel_DarkArmy",
-      "/Game/PatchDLC/Ixora/Gear/Weapons/_Unique/DarkArmy/Parts/Part_SM_TED_Material_DarkArmy.Part_SM_TED_Material_DarkArmy"
+      "/Game/PatchDLC/Ixora/Gear/Weapons/_Unique/DarkArmy/Parts/Part_SM_TED_Material_DarkArmy.Part_SM_TED_Material_DarkArmy",
+      "/Game/PatchDLC/Ixora/Gear/Weapons/_Unique/DarkArmy/Parts/Part_SM_TED_BarrelMod_DarkArmy1.Part_SM_TED_BarrelMod_DarkArmy1",
+      "/Game/PatchDLC/Ixora/Gear/Weapons/_Unique/DarkArmy/Parts/Part_SM_TED_BarrelMod_DarkArmy2.Part_SM_TED_BarrelMod_DarkArmy2",
+      "/Game/PatchDLC/Ixora/Gear/Weapons/_Unique/DarkArmy/Parts/Part_SM_TED_BarrelMod_DarkArmy3.Part_SM_TED_BarrelMod_DarkArmy3"
     ]
   },
   "BPInvPart_SR_DAL_C": {
@@ -6629,7 +6638,9 @@
       "/Game/PatchDLC/Takedown2/Gear/GrenadeMods/Lightspeed/Parts/Part_GM_Mat_Lightspeed.Part_GM_Mat_Lightspeed",
       "/Game/PatchDLC/Geranium/Gear/Grenade/SkagOil/Parts/Part_GM_Aug_SkagOil.Part_GM_Aug_SkagOil",
       "/Game/PatchDLC/Geranium/Gear/Grenade/SkagOil/Parts/Part_GM_Material_SkagOil.Part_GM_Material_SkagOil",
-      "/Game/PatchDLC/Ixora/Gear/GrenadeMods/HOTSpring/Parts/Part_GM_Aug_HOTSpring.Part_GM_Aug_HOTSpring"
+      "/Game/PatchDLC/Ixora/Gear/GrenadeMods/HOTSpring/Parts/Part_GM_Aug_HOTSpring1.Part_GM_Aug_HOTSpring1",
+      "/Game/PatchDLC/Ixora/Gear/GrenadeMods/HOTSpring/Parts/Part_GM_Aug_HOTSpring2.Part_GM_Aug_HOTSpring2",
+      "/Game/PatchDLC/Ixora/Gear/GrenadeMods/HOTSpring/Parts/Part_GM_Aug_HOTSpring3.Part_GM_Aug_HOTSpring3"
     ]
   },
   "BPInvPart_Shield_C": {
@@ -7074,8 +7085,10 @@
       "/Game/PatchDLC/Event3/Gear/Artifacts/_Design/Greed/Artifact_Part_Stat_Greed.Artifact_Part_Stat_Greed",
       "/Game/PatchDLC/Ixora/Gear/Artifacts/_Design/_Unique/Deathrattle/Artifact_Part_Ability_Deathrattle.Artifact_Part_Ability_Deathrattle",
       "/Game/PatchDLC/Ixora/Gear/Artifacts/_Design/_Unique/Deathrattle/Artifact_Part_Stat_Deathrattle.Artifact_Part_Stat_Deathrattle",
-      "/Game/PatchDLC/Ixora/Gear/Artifacts/_Design/_Unique/HolyGrail/Artifact_Part_Ability_HolyGrail.Artifact_Part_Ability_HolyGrail",
-      "/Game/PatchDLC/Ixora/Gear/Artifacts/_Design/_Unique/MysteriousAmulet/Artifact_Part_Ability_MysteriousAmulet.Artifact_Part_Ability_MysteriousAmulet"
+      "/Game/PatchDLC/Ixora/Gear/Artifacts/_Design/_Unique/HolyGrail/Artifact_Part_Ability_HolyGrail1.Artifact_Part_Ability_HolyGrail1",
+      "/Game/PatchDLC/Ixora/Gear/Artifacts/_Design/_Unique/MysteriousAmulet/Artifact_Part_Ability_MysteriousAmulet.Artifact_Part_Ability_MysteriousAmulet",
+      "/Game/PatchDLC/Ixora/Gear/Artifacts/_Design/_Unique/HolyGrail/Artifact_Part_Ability_HolyGrail2.Artifact_Part_Ability_HolyGrail2",
+      "/Game/PatchDLC/Ixora/Gear/Artifacts/_Design/_Unique/HolyGrail/Artifact_Part_Ability_HolyGrail3.Artifact_Part_Ability_HolyGrail3"
     ]
   },
   "BPInvPart_ClassMod_C": {
@@ -8291,7 +8304,8 @@
       "/Game/PatchDLC/Geranium/Gear/Weapon/_Unique/Gargoyle/Parts/Part_PS_COV_Barrel_Gargoyle.Part_PS_COV_Barrel_Gargoyle",
       "/Game/PatchDLC/Geranium/Gear/Weapon/_Unique/Gargoyle/Parts/Part_PS_COV_Material_Gargoyle.Part_PS_COV_Material_Gargoyle",
       "/Game/PatchDLC/Ixora/Gear/Weapons/_Unique/Tizzy/Parts/Part_PS_COV_Barrel_Tizzy.Part_PS_COV_Barrel_Tizzy",
-      "/Game/PatchDLC/Ixora/Gear/Weapons/_Unique/Tizzy/Parts/Part_PS_COV_Material_Tizzy.Part_PS_COV_Material_Tizzy"
+      "/Game/PatchDLC/Ixora/Gear/Weapons/_Unique/Tizzy/Parts/Part_PS_COV_Material_Tizzy.Part_PS_COV_Material_Tizzy",
+      "/Game/PatchDLC/Ixora/Gear/Weapons/_Unique/Tizzy/Parts/Part_PS_COV_Stock_02_Tizzy.Part_PS_COV_Stock_02_Tizzy"
     ]
   },
   "BPInvPart_PS_TOR_C": {
@@ -10869,8 +10883,8 @@
       "/Game/PatchDLC/Ixora/GameData/Loot/ItemPools/Enemy/ItemPool_GearUp_GrenadeMods_All.ItemPool_GearUp_GrenadeMods_All",
       "/Game/PatchDLC/Ixora/GameData/Loot/ItemPools/Enemy/ItemPool_GearUp_Guns_All.ItemPool_GearUp_Guns_All",
       "/Game/PatchDLC/Ixora/GameData/Loot/ItemPools/Enemy/ItemPool_GearUp_Shields_All.ItemPool_GearUp_Shields_All",
-      "/Game/PatchDLC/Ixora/GameData/Loot/ItemPools/Vending/DA_ItemPool_GearUp_VendingMachine.DA_ItemPool_GearUp_VendingMachine",
-      "/Game/PatchDLC/Ixora/GameData/Loot/ItemPools/Vending/DA_ItemPool_GearUp_VendingMachine_ItemOfTheDay.DA_ItemPool_GearUp_VendingMachine_ItemOfTheDay",
+      "/Game/PatchDLC/Ixora/GameData/Loot/ItemPools/Vending/DA_ItemPool_GearUp_World_VendingMachine.DA_ItemPool_GearUp_World_VendingMachine",
+      "/Game/PatchDLC/Ixora/GameData/Loot/ItemPools/Vending/DA_ItemPool_GearUp_World_VendingMachine_ItemOfTheDay.DA_ItemPool_GearUp_World_VendingMachine_ItemOfTheDay",
       "/Ixora/Enemies/CotV/Enforcer/Reaper/_Design/Character/ItemPool_Enforcer_Reaper.ItemPool_Enforcer_Reaper",
       "/Ixora/Enemies/CotV/Punk/Badass/_Design/Character/ItemPool_BadassPunk_AssaultRifles.ItemPool_BadassPunk_AssaultRifles",
       "/Ixora/Enemies/GearUpBoss/_Shared/Balance/ItemPool_GearUpBossAdds_AmmoAndHealth.ItemPool_GearUpBossAdds_AmmoAndHealth",
@@ -10939,14 +10953,26 @@
       "/Game/PatchDLC/Alisma/GameData/Loot/Legendary/ItemPool_Alisma_Legendary_Dedicate_Benedict.ItemPool_Alisma_Legendary_Dedicate_Benedict",
       "/Game/PatchDLC/Alisma/GameData/Loot/Legendary/ItemPool_Alisma_Legendary_Dedicate_DarkLilith.ItemPool_Alisma_Legendary_Dedicate_DarkLilith",
       "/Game/PatchDLC/Alisma/GameData/Loot/Legendary/ItemPool_Alisma_Legendary_Dedicate_Psychodin.ItemPool_Alisma_Legendary_Dedicate_Psychodin",
-      "/Game/PatchDLC/Alisma/GameData/Loot/Legendary/ItemPool_Alisma_Legendary_Dedicate_Train.ItemPool_Alisma_Legendary_Dedicate_Train"
+      "/Game/PatchDLC/Alisma/GameData/Loot/Legendary/ItemPool_Alisma_Legendary_Dedicate_Train.ItemPool_Alisma_Legendary_Dedicate_Train",
+      "/Game/PatchDLC/Alisma/GameData/Loot/Legendary/ItemPool_Alisma_Legendary_Dedicate_DarkBrick.ItemPool_Alisma_Legendary_Dedicate_DarkBrick",
+      "/Game/PatchDLC/Alisma/GameData/Loot/Legendary/ItemPool_Alisma_Legendary_Dedicate_DarkMordecai.ItemPool_Alisma_Legendary_Dedicate_DarkMordecai",
+      "/Game/PatchDLC/Alisma/GameData/Loot/Legendary/ItemPool_Alisma_Legendary_Dedicate_Sponge.ItemPool_Alisma_Legendary_Dedicate_Sponge",
+      "/Game/PatchDLC/Ixora/GameData/Loot/ItemPools/ItemPool_Ixora_SmalI_Item_NeedandGreed.ItemPool_Ixora_SmalI_Item_NeedandGreed",
+      "/Game/PatchDLC/Ixora/GameData/Loot/ItemPools/ItemPool_Ixora_TrashPile.ItemPool_Ixora_TrashPile",
+      "/Game/PatchDLC/Ixora/GameData/Loot/ItemPools/Vending/DA_ItemPool_GearUp_Airdrop_VendingMachine.DA_ItemPool_GearUp_Airdrop_VendingMachine",
+      "/Game/PatchDLC/Ixora/GameData/Loot/ItemPools/Vending/DA_ItemPool_GearUp_Airdrop_VendingMachine_ItemOfTheDay.DA_ItemPool_GearUp_Airdrop_VendingMachine_ItemOfTheDay",
+      "/Game/PatchDLC/Ixora/GameData/Loot/ItemPools/Vending/DA_ItemPool_GearUp_VendingMachine_Ammo_OfTheDay.DA_ItemPool_GearUp_VendingMachine_Ammo_OfTheDay",
+      "/Game/PatchDLC/Ixora/GameData/Loot/ItemPools/Vending/DA_ItemPool_GearUp_VendingMachine_Grenades.DA_ItemPool_GearUp_VendingMachine_Grenades",
+      "/Game/PatchDLC/Ixora/GameData/Loot/ItemPools/Vending/DA_ItemPool_GearUp_VendingMachine_Health_OfTheDay.DA_ItemPool_GearUp_VendingMachine_Health_OfTheDay",
+      "/Game/PatchDLC/Ixora/GameData/Loot/ItemPools/Vending/DA_ItemPool_GearUp_VendingMachine_Shields.DA_ItemPool_GearUp_VendingMachine_Shields"
     ]
   },
   "OakDownloadableContentLicenseData": {
     "versions": [
       {"version":41,"bits":1},
       {"version":42,"bits":3},
-      {"version":49,"bits":4}
+      {"version":49,"bits":4},
+      {"version":60,"bits":5}
     ],
     "assets": [
       "/Game/GameData/DLC/Preorders/NeonPack/DlcLicense_Preorder_NeonPack.DlcLicense_Preorder_NeonPack",
@@ -10961,7 +10987,11 @@
       "/Game/PatchDLC/Hibiscus/GameData/DLCData/DlcLicenseData_Hibiscus.DlcLicenseData_Hibiscus",
       "/Game/PatchDLC/Daffodil/GameData/DLCData/DlcLicense_Daffodil.DlcLicense_Daffodil",
       "/Game/PatchDLC/Alisma/GameData/DLCData/DlcLicenseData_Alisma.DlcLicenseData_Alisma",
-      "/Game/PatchDLC/Ixora/GameData/DLCData/DlcLicenseData_Ixora.DlcLicenseData_Ixora"
+      "/Game/PatchDLC/Ixora/GameData/DLCData/DlcLicenseData_Ixora.DlcLicenseData_Ixora",
+      "/Game/PatchDLC/Ixora/GameData/DLCData/DlcLicenseData_Ixora_BeastmasterBodyMesh.DlcLicenseData_Ixora_BeastmasterBodyMesh",
+      "/Game/PatchDLC/Ixora/GameData/DLCData/DlcLicenseData_Ixora_GunnerBodyMesh.DlcLicenseData_Ixora_GunnerBodyMesh",
+      "/Game/PatchDLC/Ixora/GameData/DLCData/DlcLicenseData_Ixora_OperativeBodyMesh.DlcLicenseData_Ixora_OperativeBodyMesh",
+      "/Game/PatchDLC/Ixora/GameData/DLCData/DlcLicenseData_Ixora_SirenBodyMesh.DlcLicenseData_Ixora_SirenBodyMesh"
     ]
   }
 }
